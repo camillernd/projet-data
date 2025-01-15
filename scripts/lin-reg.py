@@ -13,7 +13,7 @@ filtered_data.head(), filtered_data.columns.tolist()
 
 # Remove unwanted columns
 data_for_regression = filtered_data.drop(columns=[
-    'taux_evolution_due_solde_naturel', 'taux_evolution', 'code_insee'
+    'taux_evolution_due_solde_naturel', 'taux_evolution_due_solde_migratoire', 'code_insee'
 ])
 
 # Compute the correlation matrix
@@ -36,8 +36,8 @@ plt.close()
 correlated_pairs
 
 # Separate predictors (X) and response variable (y)
-X = data_for_regression.drop(columns=['taux_evolution_due_solde_migratoire'])
-y = data_for_regression['taux_evolution_due_solde_migratoire']
+X = data_for_regression.drop(columns=['taux_evolution'])
+y = data_for_regression['taux_evolution']
 
 # Add a constant to the predictors (for the intercept)
 X = sm.add_constant(X)
@@ -74,7 +74,7 @@ for step in regression_steps:
 print(final_model.summary())
 
 # Plot regression line for a single predictor
-key_predictor = 'part_des_60-74_ans_2021'  # Example: replace with the most significant variable
+key_predictor = 'part_des_30-44_ans_2021'  # Example: replace with the most significant variable
 plt.figure(figsize=(10, 6))
 plt.scatter(X[key_predictor], y, alpha=0.6, label='Actual Data')
 plt.plot(
@@ -83,9 +83,9 @@ plt.plot(
     color='red',
     label='Regression Line'
 )
-plt.title(f'Regression Line: {key_predictor} vs taux_evolution_due_solde_migratoire')
+plt.title(f'Regression Line: {key_predictor} vs taux_evolution_population_annuel')
 plt.xlabel(key_predictor)
-plt.ylabel('taux_evolution_due_solde_migratoire')
+plt.ylabel('taux_evolution_population_annuel')
 plt.legend()
 plt.savefig('../figures/example_lin_reg.png')
 plt.close()
