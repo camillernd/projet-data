@@ -1,0 +1,1646 @@
+insee_com,lib_com,nom_region,nom_departement
+01033,Valserhône,Auvergne-Rhône-Alpes,Ain
+01202,Lagnieu,Auvergne-Rhône-Alpes,Ain
+01265,Montréal-la-Cluse,Auvergne-Rhône-Alpes,Ain
+01266,Montrevel-en-Bresse,Auvergne-Rhône-Alpes,Ain
+01306,Pont-de-Veyle,Auvergne-Rhône-Alpes,Ain
+02173,Chauny,Hauts-de-France,Aisne
+02305,Fère-en-Tardenois,Hauts-de-France,Aisne
+02307,La Ferté-Milon,Hauts-de-France,Aisne
+02381,Hirson,Hauts-de-France,Aisne
+02468,Marle,Hauts-de-France,Aisne
+02676,Saint-Erme-Outre-et-Ramecourt,Hauts-de-France,Aisne
+03118,Gannat,Auvergne-Rhône-Alpes,Allier
+03138,Lapalisse,Auvergne-Rhône-Alpes,Allier
+03195,Néris-les-Bains,Auvergne-Rhône-Alpes,Allier
+04039,Castellane,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04049,Château-Arnoux-Saint-Auban,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+05006,L'Argentière-la-Bessée,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05065,Guillestre,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05179,Veynes,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+06130,Saint-Vallier-de-Thiey,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+06163,Tende,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+07201,Ruoms,Auvergne-Rhône-Alpes,Ardèche
+07204,Saint-Agrève,Auvergne-Rhône-Alpes,Ardèche
+07324,Tournon-sur-Rhône,Auvergne-Rhône-Alpes,Ardèche
+07330,Vallon-Pont-d'Arc,Auvergne-Rhône-Alpes,Ardèche
+07334,Les Vans,Auvergne-Rhône-Alpes,Ardèche
+08363,Revin,Grand Est,Ardennes
+08420,Signy-le-Petit,Grand Est,Ardennes
+08490,Vouziers,Grand Est,Ardennes
+09167,Lézat-sur-Lèze,Occitanie,Ariège
+09306,Tarascon-sur-Ariège,Occitanie,Ariège
+10003,Aix-Villemaur-Pâlis,Grand Est,Aube
+10006,Arcis-sur-Aube,Grand Est,Aube
+10033,Bar-sur-Aube,Grand Est,Aube
+10268,Nogent-sur-Seine,Grand Est,Aube
+11076,Castelnaudary,Occitanie,Aude
+11091,Chalabre,Occitanie,Aude
+11129,Espéraza,Occitanie,Aude
+12052,Capdenac-Gare,Occitanie,Aveyron
+12120,Laissac-Sévérac l'Église,Occitanie,Aveyron
+12197,Réquista,Occitanie,Aveyron
+12208,Saint-Affrique,Occitanie,Aveyron
+12209,Saint-Amans-des-Cots,Occitanie,Aveyron
+12270,Sévérac d'Aveyron,Occitanie,Aveyron
+13100,Saint-Rémy-de-Provence,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+13105,Sénas,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+14174,Condé-en-Normandie,Normandie,Calvados
+14200,Creully sur Seulles,Normandie,Calvados
+14228,Douvres-la-Délivrande,Normandie,Calvados
+14514,Pont-l'Évêque,Normandie,Calvados
+14764,Pont-d'Ouilly,Normandie,Calvados
+15119,Massiac,Auvergne-Rhône-Alpes,Cantal
+15187,Saint-Flour,Auvergne-Rhône-Alpes,Cantal
+15265,Ydes,Auvergne-Rhône-Alpes,Cantal
+15267,Ytrac,Auvergne-Rhône-Alpes,Cantal
+15268,Le Rouget-Pers,Auvergne-Rhône-Alpes,Cantal
+17172,Gémozac,Nouvelle-Aquitaine,Charente-Maritime
+17197,Jonzac,Nouvelle-Aquitaine,Charente-Maritime
+17347,Saint-Jean-d'Angély,Nouvelle-Aquitaine,Charente-Maritime
+17387,Saint-Porchaire,Nouvelle-Aquitaine,Charente-Maritime
+18058,Châteauneuf-sur-Cher,Centre-Val de Loire,Cher
+18233,Saint-Satur,Centre-Val de Loire,Cher
+21292,Genlis,Bourgogne-Franche-Comté,Côte-d'Or
+21554,Saint-Jean-de-Losne,Bourgogne-Franche-Comté,Côte-d'Or
+21603,Semur-en-Auxois,Bourgogne-Franche-Comté,Côte-d'Or
+22025,Callac,Bretagne,Côtes-d'Armor
+22070,Guingamp,Bretagne,Côtes-d'Armor
+22093,Lamballe-Armor,Bretagne,Côtes-d'Armor
+22162,Paimpol,Bretagne,Côtes-d'Armor
+22183,Plémet,Bretagne,Côtes-d'Armor
+22194,Plestin-les-Grèves,Bretagne,Côtes-d'Armor
+23031,Boussac,Nouvelle-Aquitaine,Creuse
+23069,Crocq,Nouvelle-Aquitaine,Creuse
+23070,Crozant,Nouvelle-Aquitaine,Creuse
+23100,Jarnages,Nouvelle-Aquitaine,Creuse
+23131,Mérinchal,Nouvelle-Aquitaine,Creuse
+24551,Thiviers,Nouvelle-Aquitaine,Dordogne
+25022,Arcey,Bourgogne-Franche-Comté,Doubs
+25334,Levier,Bourgogne-Franche-Comté,Doubs
+25434,Ornans,Bourgogne-Franche-Comté,Doubs
+25505,Rougemont,Bourgogne-Franche-Comté,Doubs
+25512,Le Russey,Bourgogne-Franche-Comté,Doubs
+26095,Cléon-d'Andran,Auvergne-Rhône-Alpes,Drôme
+26165,Livron-sur-Drôme,Auvergne-Rhône-Alpes,Drôme
+26307,Saint-Jean-en-Royans,Auvergne-Rhône-Alpes,Drôme
+27116,Brionne,Normandie,Eure
+27151,Charleval,Normandie,Eure
+27246,Fleury-sur-Andelle,Normandie,Eure
+27355,Ivry-la-Bataille,Normandie,Eure
+27377,Lyons-la-Forêt,Normandie,Eure
+27493,Romilly-sur-Andelle,Normandie,Eure
+28196,Illiers-Combray,Centre-Val de Loire,Eure-et-Loir
+28214,La Loupe,Centre-Val de Loire,Eure-et-Loir
+28391,Toury,Centre-Val de Loire,Eure-et-Loir
+29024,Carhaix-Plouguer,Bretagne,Finistère
+29039,Concarneau,Bretagne,Finistère
+29043,Daoulas,Bretagne,Finistère
+29053,Le Faou,Bretagne,Finistère
+29072,Guilvinec,Bretagne,Finistère
+29105,Landivisiau,Bretagne,Finistère
+29162,Pleyben,Bretagne,Finistère
+29217,Pont-Aven,Bretagne,Finistère
+29284,Treffiagat,Bretagne,Finistère
+2A247,Porto-Vecchio,Corse,Corse-du-Sud
+2B152,Luri,Corse,Haute-Corse
+30032,Beaucaire,Occitanie,Gard
+30133,Le Grau-du-Roi,Occitanie,Gard
+30210,Quissac,Occitanie,Gard
+30321,Sommières,Occitanie,Gard
+31454,Rieumes,Occitanie,Haute-Garonne
+32132,Fleurance,Occitanie,Gers
+32147,Gimont,Occitanie,Gers
+32344,Riscle,Occitanie,Gers
+33389,Saint-Ciers-sur-Gironde,Nouvelle-Aquitaine,Gironde
+33402,Sainte-Foy-la-Grande,Nouvelle-Aquitaine,Gironde
+34081,Colombiers,Occitanie,Hérault
+34114,Gignac,Occitanie,Hérault
+34150,Marseillan,Occitanie,Hérault
+34189,Olonzac,Occitanie,Hérault
+34239,Saint-André-de-Sangonis,Occitanie,Hérault
+34284,Saint-Pons-de-Thomières,Occitanie,Hérault
+35004,Val-Couesnon,Bretagne,Ille-et-Vilaine
+35012,Bain-de-Bretagne,Bretagne,Ille-et-Vilaine
+35069,Châteaugiron,Bretagne,Ille-et-Vilaine
+35239,Retiers,Bretagne,Ille-et-Vilaine
+35257,Maen Roch,Bretagne,Ille-et-Vilaine
+36031,Buzançais,Centre-Val de Loire,Indre
+36034,Chabris,Centre-Val de Loire,Indre
+36063,Déols,Centre-Val de Loire,Indre
+36230,Vatan,Centre-Val de Loire,Indre
+37091,La Croix-en-Touraine,Centre-Val de Loire,Indre-et-Loire
+37123,Langeais,Centre-Val de Loire,Indre-et-Loire
+37130,Ligueil,Centre-Val de Loire,Indre-et-Loire
+37226,Sainte-Maure-de-Touraine,Centre-Val de Loire,Indre-et-Loire
+38034,Beaurepaire,Auvergne-Rhône-Alpes,Isère
+38087,Chasse-sur-Rhône,Auvergne-Rhône-Alpes,Isère
+39333,Moirans-en-Montagne,Bourgogne-Franche-Comté,Jura
+39500,Salins-les-Bains,Bourgogne-Franche-Comté,Jura
+40002,Amou,Nouvelle-Aquitaine,Landes
+40102,Gabarret,Nouvelle-Aquitaine,Landes
+40119,Hagetmau,Nouvelle-Aquitaine,Landes
+40194,Montfort-en-Chalosse,Nouvelle-Aquitaine,Landes
+40331,Villeneuve-de-Marsan,Nouvelle-Aquitaine,Landes
+41123,Marchenoir,Centre-Val de Loire,Loir-et-Cher
+41143,Mondoubleau,Centre-Val de Loire,Loir-et-Cher
+41167,Veuzain-sur-Loire,Centre-Val de Loire,Loir-et-Cher
+41171,Oucques La Nouvelle,Centre-Val de Loire,Loir-et-Cher
+41269,Vendôme,Centre-Val de Loire,Loir-et-Cher
+42052,Charlieu,Auvergne-Rhône-Alpes,Loire
+42181,Régny,Auvergne-Rhône-Alpes,Loire
+42289,Saint-Symphorien-de-Lay,Auvergne-Rhône-Alpes,Loire
+43003,Allègre,Auvergne-Rhône-Alpes,Haute-Loire
+43141,Montfaucon-en-Velay,Auvergne-Rhône-Alpes,Haute-Loire
+43234,Saugues,Auvergne-Rhône-Alpes,Haute-Loire
+43268,Yssingeaux,Auvergne-Rhône-Alpes,Haute-Loire
+44084,Le Loroux-Bottereau,Pays de la Loire,Loire-Atlantique
+44116,Paimbœuf,Pays de la Loire,Loire-Atlantique
+45053,Briare,Centre-Val de Loire,Loiret
+45082,Châteauneuf-sur-Loire,Centre-Val de Loire,Loiret
+45145,Ferrières-en-Gâtinais,Centre-Val de Loire,Loiret
+46038,Bretenoux,Occitanie,Lot
+46045,Cajarc,Occitanie,Lot
+46063,Castelnau Montratier-Sainte Alauzie,Occitanie,Lot
+46251,Saint-Céré,Occitanie,Lot
+47143,Lavardac,Nouvelle-Aquitaine,Lot-et-Garonne
+47179,Monsempron-Libos,Nouvelle-Aquitaine,Lot-et-Garonne
+48096,Meyrueis,Occitanie,Lozère
+49063,Chalonnes-sur-Loire,Pays de la Loire,Maine-et-Loire
+49080,Les Hauts-d'Anjou,Pays de la Loire,Maine-et-Loire
+49244,Mauges-sur-Loire,Pays de la Loire,Maine-et-Loire
+49331,Segré-en-Anjou Bleu,Pays de la Loire,Maine-et-Loire
+50041,La Hague,Normandie,Manche
+50076,Bréhal,Normandie,Manche
+50082,Bricquebec-en-Cotentin,Normandie,Manche
+50099,Carentan-les-Marais,Normandie,Manche
+50197,Gavray-sur-Sienne,Normandie,Manche
+50218,Granville,Normandie,Manche
+50292,Marigny-Le-Lozon,Normandie,Manche
+50400,Picauville,Normandie,Manche
+50551,Saint-Sauveur-le-Vicomte,Normandie,Manche
+50601,Torigny-les-Villes,Normandie,Manche
+50639,Villedieu-les-Poêles-Rouffigny,Normandie,Manche
+52008,Andelot-Blancheville,Grand Est,Haute-Marne
+52058,Bologne,Grand Est,Haute-Marne
+52197,Fayl-Billot,Grand Est,Haute-Marne
+52247,Illoud,Grand Est,Haute-Marne
+52405,Le Montsaugeonnais,Grand Est,Haute-Marne
+53062,Château-Gontier-sur-Mayenne,Pays de la Loire,Mayenne
+53152,Meslay-du-Maine,Pays de la Loire,Mayenne
+55122,Commercy,Grand Est,Meuse
+55181,Étain,Grand Est,Meuse
+55351,Montmédy,Grand Est,Meuse
+55533,Vaucouleurs,Grand Est,Meuse
+56091,Josselin,Bretagne,Morbihan
+56169,Plouhinec,Bretagne,Morbihan
+56184,Questembert,Bretagne,Morbihan
+56186,Quiberon,Bretagne,Morbihan
+56240,Sarzeau,Bretagne,Morbihan
+57089,Bitche,Grand Est,Moselle
+57097,Boulay-Moselle,Grand Est,Moselle
+57332,Hombourg-Haut,Grand Est,Moselle
+57483,Morhange,Grand Est,Moselle
+57650,Sierck-les-Bains,Grand Est,Moselle
+58065,Châtillon-en-Bazois,Bourgogne-Franche-Comté,Nièvre
+58145,Lormes,Bourgogne-Franche-Comté,Nièvre
+58151,La Machine,Bourgogne-Franche-Comté,Nièvre
+58182,Moulins-Engilbert,Bourgogne-Franche-Comté,Nièvre
+58304,Varzy,Bourgogne-Franche-Comté,Nièvre
+59249,Fourmies,Hauts-de-France,Nord
+59571,Solesmes,Hauts-de-France,Nord
+60395,Méru,Hauts-de-France,Oise
+60577,Saint-Germer-de-Fly,Hauts-de-France,Oise
+61038,Bellême,Normandie,Orne
+61181,Gacé,Normandie,Orne
+61214,L'Aigle,Normandie,Orne
+62364,Fruges,Hauts-de-France,Pas-de-Calais
+62397,Guînes,Hauts-de-France,Pas-de-Calais
+63040,Billom,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63132,Cunlhat,Auvergne-Rhône-Alpes,Puy-de-Dôme
+64062,Arudy,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64063,Arzacq-Arraziguet,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64233,Garlin,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64331,Lembeye,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64405,Morlaàs,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64493,Saint-Palais,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64519,Serres-Castet,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+65031,Arreau,Occitanie,Hautes-Pyrénées
+65059,Bagnères-de-Bigorre,Occitanie,Hautes-Pyrénées
+65258,Lannemezan,Occitanie,Hautes-Pyrénées
+65452,Trie-sur-Baïse,Occitanie,Hautes-Pyrénées
+66049,Céret,Occitanie,Pyrénées-Orientales
+66065,Elne,Occitanie,Pyrénées-Orientales
+66108,Millas,Occitanie,Pyrénées-Orientales
+66125,Olette,Occitanie,Pyrénées-Orientales
+66130,Osséja,Occitanie,Pyrénées-Orientales
+66222,Vernet-les-Bains,Occitanie,Pyrénées-Orientales
+67020,Barembach,Grand Est,Bas-Rhin
+67176,Gundershoffen,Grand Est,Bas-Rhin
+67281,Marckolsheim,Grand Est,Bas-Rhin
+67291,Mertzwiller,Grand Est,Bas-Rhin
+67448,Schirmeck,Grand Est,Bas-Rhin
+68162,Kaysersberg Vignoble,Grand Est,Haut-Rhin
+68231,Neuf-Brisach,Grand Est,Haut-Rhin
+69010,L'Arbresle,Auvergne-Rhône-Alpes,Rhône
+69018,Beaujeu,Auvergne-Rhône-Alpes,Rhône
+69019,Belleville-en-Beaujolais,Auvergne-Rhône-Alpes,Rhône
+69288,Saint-Laurent-de-Mure,Auvergne-Rhône-Alpes,Rhône
+70120,Champagney,Bourgogne-Franche-Comté,Haute-Saône
+70292,Jussey,Bourgogne-Franche-Comté,Haute-Saône
+71106,Charolles,Bourgogne-Franche-Comté,Saône-et-Loire
+71120,Chauffailles,Bourgogne-Franche-Comté,Saône-et-Loire
+71137,Cluny,Bourgogne-Franche-Comté,Saône-et-Loire
+71158,Cuisery,Bourgogne-Franche-Comté,Saône-et-Loire
+71178,Dompierre-les-Ormes,Bourgogne-Franche-Comté,Saône-et-Loire
+71192,Étang-sur-Arroux,Bourgogne-Franche-Comté,Saône-et-Loire
+71351,Pierre-de-Bresse,Bourgogne-Franche-Comté,Saône-et-Loire
+71545,Tramayes,Bourgogne-Franche-Comté,Saône-et-Loire
+72071,Montval-sur-Loir,Pays de la Loire,Sarthe
+72124,Écommoy,Pays de la Loire,Sarthe
+72334,Sillé-le-Guillaume,Pays de la Loire,Sarthe
+72363,Tuffé Val de la Chéronne,Pays de la Loire,Sarthe
+73010,Entrelacs,Auvergne-Rhône-Alpes,Savoie
+74119,Évian-les-Bains,Auvergne-Rhône-Alpes,Haute-Savoie
+74169,Marnaz,Auvergne-Rhône-Alpes,Haute-Savoie
+74264,Scionzier,Auvergne-Rhône-Alpes,Haute-Savoie
+76159,Cany-Barville,Normandie,Seine-Maritime
+76196,Criquetot-l'Esneval,Normandie,Seine-Maritime
+76302,Goderville,Normandie,Seine-Maritime
+76312,Gournay-en-Bray,Normandie,Seine-Maritime
+76329,Gruchet-le-Valasse,Normandie,Seine-Maritime
+76392,Londinières,Normandie,Seine-Maritime
+76647,Saint-Romain-de-Colbosc,Normandie,Seine-Maritime
+76648,Saint-Saëns,Normandie,Seine-Maritime
+78310,Houdan,Île-de-France,Yvelines
+78321,Jouars-Pontchartrain,Île-de-France,Yvelines
+78380,Maule,Île-de-France,Yvelines
+79174,Melle,Nouvelle-Aquitaine,Deux-Sèvres
+79202,Parthenay,Nouvelle-Aquitaine,Deux-Sèvres
+79307,Sauzé-Vaussais,Nouvelle-Aquitaine,Deux-Sèvres
+79329,Thouars,Nouvelle-Aquitaine,Deux-Sèvres
+80570,Moreuil,Hauts-de-France,Somme
+80620,Péronne,Hauts-de-France,Somme
+80685,Roye,Hauts-de-France,Somme
+81003,Alban,Occitanie,Tarn
+81033,Blaye-les-Mines,Occitanie,Tarn
+81069,Cordes-sur-Ciel,Occitanie,Tarn
+81099,Gaillac,Occitanie,Tarn
+81222,Réalmont,Occitanie,Tarn
+82022,Bourg-de-Visa,Occitanie,Tarn-et-Garonne
+82134,Nègrepelisse,Occitanie,Tarn-et-Garonne
+83042,Cogolin,Provence-Alpes-Côte d'Azur,Var
+83073,Le Luc,Provence-Alpes-Côte d'Azur,Var
+84054,L'Isle-sur-la-Sorgue,Provence-Alpes-Côte d'Azur,Vaucluse
+84072,Mazan,Provence-Alpes-Côte d'Azur,Vaucluse
+84080,Monteux,Provence-Alpes-Côte d'Azur,Vaucluse
+84133,La Tour-d'Aigues,Provence-Alpes-Côte d'Azur,Vaucluse
+85047,Challans,Pays de la Loire,Vendée
+85065,Chavagnes-en-Paillers,Pays de la Loire,Vendée
+85152,Les Achards,Pays de la Loire,Vendée
+85288,Talmont-Saint-Hilaire,Pays de la Loire,Vendée
+86070,Chauvigny,Nouvelle-Aquitaine,Vienne
+86078,Civray,Nouvelle-Aquitaine,Vienne
+86092,Dangé-Saint-Romain,Nouvelle-Aquitaine,Vienne
+86193,Pleumartin,Nouvelle-Aquitaine,Vienne
+87011,Bellac,Nouvelle-Aquitaine,Haute-Vienne
+87040,Châteauneuf-la-Forêt,Nouvelle-Aquitaine,Haute-Vienne
+88095,Châtenois,Grand Est,Vosges
+88114,Contrexéville,Grand Est,Vosges
+88124,Darney,Grand Est,Vosges
+88181,Fraize,Grand Est,Vosges
+88304,Mirecourt,Grand Est,Vosges
+89046,Bléneau,Bourgogne-Franche-Comté,Yonne
+89257,Migennes,Bourgogne-Franche-Comté,Yonne
+89418,Tonnerre,Bourgogne-Franche-Comté,Yonne
+89461,Villeneuve-l'Archevêque,Bourgogne-Franche-Comté,Yonne
+91359,Maisse,Île-de-France,Essonne
+91405,Milly-la-Forêt,Île-de-France,Essonne
+95652,Viarmes,Île-de-France,Val-d'Oise
+97115,Lamentin,Guadeloupe,Guadeloupe
+97357,Grand-Santi,Guyane,Guyane
+97401,Les Avirons,La Réunion,La Réunion
+97602,Bandraboua,Mayotte,Mayotte
+01185,Plateau d'Hauteville,Auvergne-Rhône-Alpes,Ain
+01244,Meximieux,Auvergne-Rhône-Alpes,Ain
+01269,Nantua,Auvergne-Rhône-Alpes,Ain
+01305,Pont-de-Vaux,Auvergne-Rhône-Alpes,Ain
+01350,Saint-Étienne-du-Bois,Auvergne-Rhône-Alpes,Ain
+01420,Thoissey,Auvergne-Rhône-Alpes,Ain
+01443,Villars-les-Dombes,Auvergne-Rhône-Alpes,Ain
+02141,La Capelle,Hauts-de-France,Aisne
+02430,Liesse-Notre-Dame,Hauts-de-France,Aisne
+02502,Montcornet,Hauts-de-France,Aisne
+02602,Pinon,Hauts-de-France,Aisne
+02738,Tergnier,Hauts-de-France,Aisne
+02758,Vailly-sur-Aisne,Hauts-de-France,Aisne
+02810,Villers-Cotterêts,Hauts-de-France,Aisne
+03036,Bourbon-l'Archambault,Auvergne-Rhône-Alpes,Allier
+03082,Commentry,Auvergne-Rhône-Alpes,Allier
+03161,Marcillat-en-Combraille,Auvergne-Rhône-Alpes,Allier
+03298,Varennes-sur-Allier,Auvergne-Rhône-Alpes,Allier
+04088,Forcalquier,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04209,Sisteron,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+05050,Espinasses,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05070,Laragne-Montéglin,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05132,Saint-Bonnet-en-Champsaur,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05166,Serres,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+06023,Breil-sur-Roya,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+06103,Roquebillière,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+07132,Largentière,Auvergne-Rhône-Alpes,Ardèche
+08419,Signy-l'Abbaye,Grand Est,Ardennes
+08491,Vrigne aux Bois,Grand Est,Ardennes
+10034,Bar-sur-Seine,Grand Est,Aube
+10064,Brienne-le-Château,Grand Est,Aube
+10080,Chaource,Grand Est,Aube
+10140,Ervy-le-Châtel,Grand Est,Aube
+11103,Couiza,Occitanie,Aude
+11266,Port-la-Nouvelle,Occitanie,Aude
+11304,Quillan,Occitanie,Aude
+11379,Sigean,Occitanie,Aude
+12089,Decazeville,Occitanie,Aveyron
+12198,Rieupeyroux,Occitanie,Aveyron
+14027,Les Monts d'Aunay,Normandie,Calvados
+14035,Balleroy-sur-Drôme,Normandie,Calvados
+14061,Souleuvre en Bocage,Normandie,Calvados
+14098,Thue et Mue,Normandie,Calvados
+14126,Cambremer,Normandie,Calvados
+14143,Caumont-sur-Aure,Normandie,Calvados
+14225,Dives-sur-Mer,Normandie,Calvados
+14312,Grandcamp-Maisy,Normandie,Calvados
+14333,Honfleur,Normandie,Calvados
+14342,Isigny-sur-Mer,Normandie,Calvados
+14431,Mézidon Vallée d'Auge,Normandie,Calvados
+14654,Saint-Pierre-en-Auge,Normandie,Calvados
+14711,Trévières,Normandie,Calvados
+15175,Saint-Cernin,Auvergne-Rhône-Alpes,Cantal
+16106,Confolens,Nouvelle-Aquitaine,Charente
+16192,Terres-de-Haute-Charente,Nouvelle-Aquitaine,Charente
+16281,La Rochefoucauld-en-Angoumois,Nouvelle-Aquitaine,Charente
+16286,Rouillac,Nouvelle-Aquitaine,Charente
+16366,Segonzac,Nouvelle-Aquitaine,Charente
+17224,Matha,Nouvelle-Aquitaine,Charente-Maritime
+17240,Montendre,Nouvelle-Aquitaine,Charente-Maritime
+17331,Saint-Genis-de-Saintonge,Nouvelle-Aquitaine,Charente-Maritime
+17421,Saujon,Nouvelle-Aquitaine,Charente-Maritime
+18057,Châteaumeillant,Centre-Val de Loire,Cher
+18087,Dun-sur-Auron,Centre-Val de Loire,Cher
+18241,Sancerre,Centre-Val de Loire,Cher
+19011,Arnac-Pompadour,Nouvelle-Aquitaine,Corrèze
+19036,Chamberet,Nouvelle-Aquitaine,Corrèze
+19138,Meyssac,Nouvelle-Aquitaine,Corrèze
+21501,Pouilly-en-Auxois,Bourgogne-Franche-Comté,Côte-d'Or
+22004,Bégard,Bretagne,Côtes-d'Armor
+22050,Dinan,Bretagne,Côtes-d'Armor
+22136,Loudéac,Bretagne,Côtes-d'Armor
+22137,Maël-Carhaix,Bretagne,Côtes-d'Armor
+22143,Matignon,Bretagne,Côtes-d'Armor
+22147,Merdrignac,Bretagne,Côtes-d'Armor
+22222,Plouha,Bretagne,Côtes-d'Armor
+22362,Tréguier,Bretagne,Côtes-d'Armor
+23008,Aubusson,Nouvelle-Aquitaine,Creuse
+23025,Bonnat,Nouvelle-Aquitaine,Creuse
+23045,Chambon-sur-Voueize,Nouvelle-Aquitaine,Creuse
+23079,Felletin,Nouvelle-Aquitaine,Creuse
+23089,Genouillac,Nouvelle-Aquitaine,Creuse
+23105,Lavaveix-les-Mines,Nouvelle-Aquitaine,Creuse
+23176,La Souterraine,Nouvelle-Aquitaine,Creuse
+24028,Beaumontois en Périgord,Nouvelle-Aquitaine,Dordogne
+24294,Montpon-Ménestérol,Nouvelle-Aquitaine,Dordogne
+24396,Saint-Cyprien,Nouvelle-Aquitaine,Dordogne
+25047,Baume-les-Dames,Bourgogne-Franche-Comté,Doubs
+25237,Fesches-le-Châtel,Bourgogne-Franche-Comté,Doubs
+25315,L'Isle-sur-le-Doubs,Bourgogne-Franche-Comté,Doubs
+25411,Morteau,Bourgogne-Franche-Comté,Doubs
+26063,Buis-les-Baronnies,Auvergne-Rhône-Alpes,Drôme
+26114,Dieulefit,Auvergne-Rhône-Alpes,Drôme
+27051,Beaumont-le-Roger,Normandie,Eure
+27056,Bernay,Normandie,Eure
+27117,Broglie,Normandie,Eure
+27279,Gasny,Normandie,Eure
+27448,Pacy-sur-Eure,Normandie,Eure
+27470,Pont-Saint-Pierre,Normandie,Eure
+28027,La Bazoche-Gouet,Centre-Val de Loire,Eure-et-Loir
+28061,Brou,Centre-Val de Loire,Eure-et-Loir
+28149,La Ferté-Vidame,Centre-Val de Loire,Eure-et-Loir
+28279,Nogent-le-Roi,Centre-Val de Loire,Eure-et-Loir
+28387,Thiron-Gardais,Centre-Val de Loire,Eure-et-Loir
+29020,Briec,Bretagne,Finistère
+29158,Penmarch,Bretagne,Finistère
+29197,Plouhinec,Bretagne,Finistère
+29199,Plouigneau,Bretagne,Finistère
+29233,Quimperlé,Bretagne,Finistère
+29260,Saint-Renan,Bretagne,Finistère
+29302,Pont-de-Buis-lès-Quimerch,Bretagne,Finistère
+2A249,Propriano,Corse,Corse-du-Sud
+2B096,Corte,Corse,Haute-Corse
+30034,Bellegarde,Occitanie,Gard
+30132,La Grand-Combe,Occitanie,Gard
+30263,Saint-Hippolyte-du-Fort,Occitanie,Gard
+31033,Auterive,Occitanie,Haute-Garonne
+31239,L'Isle-en-Dodon,Occitanie,Haute-Garonne
+31582,Villefranche-de-Lauragais,Occitanie,Haute-Garonne
+32079,Castelnau d'Auzan Labarrère,Occitanie,Gers
+32233,Marciac,Occitanie,Gers
+32296,Nogaro,Occitanie,Gers
+32319,Plaisance,Occitanie,Gers
+32410,Samatan,Occitanie,Gers
+33042,Belin-Béliet,Nouvelle-Aquitaine,Gironde
+33108,Castillon-la-Bataille,Nouvelle-Aquitaine,Gironde
+33227,Langon,Nouvelle-Aquitaine,Gironde
+34079,Clermont-l'Hérault,Occitanie,Hérault
+34101,Florensac,Occitanie,Hérault
+34111,Ganges,Occitanie,Hérault
+34147,Magalas,Occitanie,Hérault
+34199,Pézenas,Occitanie,Hérault
+35023,Bédée,Bretagne,Ille-et-Vilaine
+35126,Guichen,Bretagne,Ille-et-Vilaine
+35152,Liffré,Bretagne,Ille-et-Vilaine
+35176,Guipry-Messac,Bretagne,Ille-et-Vilaine
+35184,Montauban-de-Bretagne,Bretagne,Ille-et-Vilaine
+35188,Montfort-sur-Meu,Bretagne,Ille-et-Vilaine
+35223,Plélan-le-Grand,Bretagne,Ille-et-Vilaine
+35282,Rives-du-Couesnon,Bretagne,Ille-et-Vilaine
+35297,Saint-Méen-le-Grand,Bretagne,Ille-et-Vilaine
+36001,Aigurande,Centre-Val de Loire,Indre
+36005,Ardentes,Centre-Val de Loire,Indre
+36006,Argenton-sur-Creuse,Centre-Val de Loire,Indre
+36045,Châtillon-sur-Indre,Centre-Val de Loire,Indre
+36046,La Châtre,Centre-Val de Loire,Indre
+36093,Levroux,Centre-Val de Loire,Indre
+36228,Valençay,Centre-Val de Loire,Indre
+37031,Bourgueil,Centre-Val de Loire,Indre-et-Loire
+37063,Château-Renault,Centre-Val de Loire,Indre-et-Loire
+37225,Saint-Martin-le-Beau,Centre-Val de Loire,Indre-et-Loire
+38226,Mens,Auvergne-Rhône-Alpes,Isère
+38269,La Mure,Auvergne-Rhône-Alpes,Isère
+39478,Saint-Claude,Bourgogne-Franche-Comté,Jura
+40197,Morcenx-la-Nouvelle,Nouvelle-Aquitaine,Landes
+41136,Mer,Centre-Val de Loire,Loir-et-Cher
+41151,Montrichard Val de Cher,Centre-Val de Loire,Loir-et-Cher
+41159,Neung-sur-Beuvron,Centre-Val de Loire,Loir-et-Cher
+41242,Selles-sur-Cher,Centre-Val de Loire,Loir-et-Cher
+42011,Balbigny,Auvergne-Rhône-Alpes,Loire
+42165,Panissières,Auvergne-Rhône-Alpes,Loire
+42204,Saint-Bonnet-le-Château,Auvergne-Rhône-Alpes,Loire
+42224,Saint-Genest-Malifaux,Auvergne-Rhône-Alpes,Loire
+43112,Langeac,Auvergne-Rhône-Alpes,Haute-Loire
+43135,Le Monastier-sur-Gazeille,Auvergne-Rhône-Alpes,Haute-Loire
+43185,Sainte-Florine,Auvergne-Rhône-Alpes,Haute-Loire
+43200,Saint-Julien-Chapteuil,Auvergne-Rhône-Alpes,Haute-Loire
+43267,Vorey,Auvergne-Rhône-Alpes,Haute-Loire
+44015,Blain,Pays de la Loire,Loire-Atlantique
+44072,Herbignac,Pays de la Loire,Loire-Atlantique
+44087,Machecoul-Saint-Même,Pays de la Loire,Loire-Atlantique
+44161,Saint-Gildas-des-Bois,Pays de la Loire,Loire-Atlantique
+44180,Vallons-de-l'Erdre,Pays de la Loire,Loire-Atlantique
+44195,Savenay,Pays de la Loire,Loire-Atlantique
+44212,Vallet,Pays de la Loire,Loire-Atlantique
+45028,Beaugency,Centre-Val de Loire,Loiret
+45115,Courtenay,Centre-Val de Loire,Loiret
+45203,Meung-sur-Loire,Centre-Val de Loire,Loiret
+45315,Sully-sur-Loire,Centre-Val de Loire,Loiret
+46173,Limogne-en-Quercy,Occitanie,Lot
+46185,Martel,Occitanie,Lot
+46309,Souillac,Occitanie,Lot
+46330,Vayrac,Occitanie,Lot
+47004,Aiguillon,Nouvelle-Aquitaine,Lot-et-Garonne
+47048,Cancon,Nouvelle-Aquitaine,Lot-et-Garonne
+47078,Damazan,Nouvelle-Aquitaine,Lot-et-Garonne
+47086,Duras,Nouvelle-Aquitaine,Lot-et-Garonne
+47168,Miramont-de-Guyenne,Nouvelle-Aquitaine,Lot-et-Garonne
+48017,Banassac-Canilhac,Occitanie,Lozère
+48039,Chanac,Occitanie,Lozère
+48080,Langogne,Occitanie,Lozère
+48140,Saint-Chély-d'Apcher,Occitanie,Lozère
+49180,Longué-Jumelles,Pays de la Loire,Maine-et-Loire
+49228,Noyant-Villages,Pays de la Loire,Maine-et-Loire
+49248,Ombrée d'Anjou,Pays de la Loire,Maine-et-Loire
+50031,Barneville-Carteret,Normandie,Manche
+50139,Condé-sur-Vire,Normandie,Manche
+50236,La Haye,Normandie,Manche
+50359,Mortain-Bocage,Normandie,Manche
+50402,Les Pieux,Normandie,Manche
+50417,Quettehou,Normandie,Manche
+50523,Sainte-Mère-Église,Normandie,Manche
+51507,Sainte-Menehould,Grand Est,Marne
+51612,Blancs-Coteaux,Grand Est,Marne
+52050,Biesles,Grand Est,Haute-Marne
+52074,Breuvannes-en-Bassigny,Grand Est,Haute-Marne
+52269,Langres,Grand Est,Haute-Marne
+53003,Ambrières-les-Vallées,Pays de la Loire,Mayenne
+53084,Craon,Pays de la Loire,Mayenne
+53096,Ernée,Pays de la Loire,Mayenne
+53107,Gorron,Pays de la Loire,Mayenne
+53161,Montsûrs,Pays de la Loire,Mayenne
+54263,Homécourt,Grand Est,Meurthe-et-Moselle
+54322,Longuyon,Grand Est,Meurthe-et-Moselle
+55427,Revigny-sur-Ornain,Grand Est,Meuse
+55463,Saint-Mihiel,Grand Est,Meuse
+56001,Allaire,Bretagne,Morbihan
+56057,Le Faouët,Bretagne,Morbihan
+56127,Mauron,Bretagne,Morbihan
+56165,Ploërmel,Bretagne,Morbihan
+57207,Farébersviller,Grand Est,Moselle
+58046,Cercy-la-Tour,Bourgogne-Franche-Comté,Nièvre
+58062,Château-Chinon (Ville),Bourgogne-Franche-Comté,Nièvre
+58083,Corbigny,Bourgogne-Franche-Comté,Nièvre
+58095,Decize,Bourgogne-Franche-Comté,Nièvre
+58227,Saint-Amand-en-Puisaye,Bourgogne-Franche-Comté,Nièvre
+58267,Saint-Saulge,Bourgogne-Franche-Comté,Nièvre
+59015,Arleux,Hauts-de-France,Nord
+59035,Avesnelles,Hauts-de-France,Nord
+59037,Avesnes-les-Aubert,Hauts-de-France,Nord
+59053,Bavay,Hauts-de-France,Nord
+59331,Landrecies,Hauts-de-France,Nord
+59481,Le Quesnoy,Hauts-de-France,Nord
+60104,Breteuil,Hauts-de-France,Oise
+60157,Clermont,Hauts-de-France,Oise
+61230,Longny les Villages,Normandie,Orne
+61339,Putanges-le-Lac,Normandie,Orne
+61464,Sées,Normandie,Orne
+61483,Bagnoles de l'Orne Normandie,Normandie,Orne
+61508,Vimoutiers,Normandie,Orne
+62063,Avesnes-le-Comte,Hauts-de-France,Pas-de-Calais
+62268,Desvres,Hauts-de-France,Pas-de-Calais
+62516,Lillers,Hauts-de-France,Pas-de-Calais
+62588,Montreuil-sur-Mer,Hauts-de-France,Pas-de-Calais
+63281,Pionsat,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63291,Puy-Guillaume,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63354,Saint-Gervais-d'Auvergne,Auvergne-Rhône-Alpes,Puy-de-Dôme
+64371,Mauléon-Licharre,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64416,Navarrenx,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64430,Orthez,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64453,Pontacq,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64485,Saint-Jean-Pied-de-Port,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+65025,Argelès-Gazost,Occitanie,Hautes-Pyrénées
+65375,Rabastens-de-Bigorre,Occitanie,Hautes-Pyrénées
+65389,Saint-Laurent-de-Neste,Occitanie,Hautes-Pyrénées
+66016,Banyuls-sur-Mer,Occitanie,Pyrénées-Orientales
+66071,Estagel,Occitanie,Pyrénées-Orientales
+66124,Font-Romeu-Odeillo-Via,Occitanie,Pyrénées-Orientales
+66148,Port-Vendres,Occitanie,Pyrénées-Orientales
+66164,Rivesaltes,Occitanie,Pyrénées-Orientales
+66180,Saint-Laurent-de-la-Salanque,Occitanie,Pyrénées-Orientales
+66210,Thuir,Occitanie,Pyrénées-Orientales
+67021,Barr,Grand Est,Bas-Rhin
+67061,Bouxwiller,Grand Est,Bas-Rhin
+67101,Dorlisheim,Grand Est,Bas-Rhin
+67414,Rothau,Grand Est,Bas-Rhin
+67507,Villé,Grand Est,Bas-Rhin
+68068,Dannemarie,Grand Est,Haut-Rhin
+68201,Masevaux-Niederbruck,Grand Est,Haut-Rhin
+68226,Munster,Grand Est,Haut-Rhin
+68249,Orbey,Grand Est,Haut-Rhin
+68298,Sainte-Marie-aux-Mines,Grand Est,Haut-Rhin
+68334,Thann,Grand Est,Haut-Rhin
+69141,Mornant,Auvergne-Rhône-Alpes,Rhône
+70122,Champlitte,Bourgogne-Franche-Comté,Haute-Saône
+71073,Chagny,Bourgogne-Franche-Comté,Saône-et-Loire
+71133,La Clayette,Bourgogne-Franche-Comté,Saône-et-Loire
+71289,Matour,Bourgogne-Franche-Comté,Saône-et-Loire
+71394,Saint-Bonnet-de-Joux,Bourgogne-Franche-Comté,Saône-et-Loire
+72023,Ballon-Saint Mars,Pays de la Loire,Sarthe
+72035,Bessé-sur-Braye,Pays de la Loire,Sarthe
+72039,Bonnétable,Pays de la Loire,Sarthe
+72189,Marolles-les-Braults,Pays de la Loire,Sarthe
+72223,Noyen-sur-Sarthe,Pays de la Loire,Sarthe
+73236,Saint-Genix-les-Villages,Auvergne-Rhône-Alpes,Savoie
+73270,Saint-Pierre-d'Albigny,Auvergne-Rhône-Alpes,Savoie
+73303,Ugine,Auvergne-Rhône-Alpes,Savoie
+74026,La Balme-de-Sillingy,Auvergne-Rhône-Alpes,Haute-Savoie
+74056,Chamonix-Mont-Blanc,Auvergne-Rhône-Alpes,Haute-Savoie
+74081,Cluses,Auvergne-Rhône-Alpes,Haute-Savoie
+74256,Sallanches,Auvergne-Rhône-Alpes,Haute-Savoie
+76051,Bacqueville-en-Caux,Normandie,Seine-Maritime
+76114,Bolbec,Normandie,Seine-Maritime
+76164,Rives-en-Seine,Normandie,Seine-Maritime
+76400,Luneray,Normandie,Seine-Maritime
+76758,Yvetot,Normandie,Seine-Maritime
+77327,Nangis,Île-de-France,Seine-et-Marne
+77475,Trilport,Île-de-France,Seine-et-Marne
+79013,Argentonnay,Nouvelle-Aquitaine,Deux-Sèvres
+79062,Cerizay,Nouvelle-Aquitaine,Deux-Sèvres
+79148,Lezay,Nouvelle-Aquitaine,Deux-Sèvres
+79311,Secondigny,Nouvelle-Aquitaine,Deux-Sèvres
+80010,Ailly-sur-Noye,Hauts-de-France,Somme
+80222,Crécy-en-Ponthieu,Hauts-de-France,Somme
+80318,Flixecourt,Hauts-de-France,Somme
+80606,Oisemont,Hauts-de-France,Somme
+81037,Brassac,Occitanie,Tarn
+81060,Carmaux,Occitanie,Tarn
+81140,Lavaur,Occitanie,Tarn
+81220,Rabastens,Occitanie,Tarn
+82087,Lafrançaise,Occitanie,Tarn-et-Garonne
+82097,Lavit,Occitanie,Tarn-et-Garonne
+82112,Moissac,Occitanie,Tarn-et-Garonne
+82115,Monclar-de-Quercy,Occitanie,Tarn-et-Garonne
+82155,Saint-Antonin-Noble-Val,Occitanie,Tarn-et-Garonne
+83012,Barjols,Provence-Alpes-Côte d'Azur,Var
+83031,Le Cannet-des-Maures,Provence-Alpes-Côte d'Azur,Var
+83071,La Londe-les-Maures,Provence-Alpes-Côte d'Azur,Var
+84019,Bollène,Provence-Alpes-Côte d'Azur,Vaucluse
+84026,Cadenet,Provence-Alpes-Côte d'Azur,Vaucluse
+84138,Valréas,Provence-Alpes-Côte d'Azur,Vaucluse
+85059,La Châtaigneraie,Pays de la Loire,Vendée
+85215,Saint-Fulgent,Pays de la Loire,Vendée
+86082,Valence-en-Poitou,Nouvelle-Aquitaine,Vienne
+86137,Loudun,Nouvelle-Aquitaine,Vienne
+87064,Eymoutiers,Nouvelle-Aquitaine,Haute-Vienne
+87161,Saint-Léonard-de-Noblat,Nouvelle-Aquitaine,Haute-Vienne
+88029,La Vôge-les-Bains,Grand Est,Vosges
+88321,Neufchâteau,Grand Est,Vosges
+88372,Raon-l'Étape,Grand Est,Vosges
+88487,Le Val-d'Ajol,Grand Est,Vosges
+88516,Vittel,Grand Est,Vosges
+89344,Saint-Fargeau,Bourgogne-Franche-Comté,Yonne
+91016,Angerville,Île-de-France,Essonne
+91105,Breuillet,Île-de-France,Essonne
+95250,Fosses,Île-de-France,Val-d'Oise
+97106,Bouillante,Guadeloupe,Guadeloupe
+97202,Les Anses-d'Arlet,Martinique,Martinique
+97204,Le Carbet,Martinique,Martinique
+97225,Saint-Pierre,Martinique,Martinique
+97403,Entre-Deux,La Réunion,La Réunion
+97406,La Plaine-des-Palmistes,La Réunion,La Réunion
+01034,Belley,Auvergne-Rhône-Alpes,Ain
+01072,Ceyzériat,Auvergne-Rhône-Alpes,Ain
+01074,Chalamont,Auvergne-Rhône-Alpes,Ain
+01304,Pont-d'Ain,Auvergne-Rhône-Alpes,Ain
+01333,Saint-André-de-Corcy,Auvergne-Rhône-Alpes,Ain
+01457,Vonnas,Auvergne-Rhône-Alpes,Ain
+02110,Braine,Hauts-de-France,Aisne
+02304,La Fère,Hauts-de-France,Aisne
+02361,Guise,Hauts-de-France,Aisne
+03043,Broût-Vernet,Auvergne-Rhône-Alpes,Allier
+03128,Huriel,Auvergne-Rhône-Alpes,Allier
+04018,Banon,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04143,Oraison,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+05017,La Bâtie-Neuve,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+07064,Le Cheylard,Auvergne-Rhône-Alpes,Ardèche
+07319,Le Teil,Auvergne-Rhône-Alpes,Ardèche
+07349,La Voulte-sur-Rhône,Auvergne-Rhône-Alpes,Ardèche
+08081,Bogny-sur-Meuse,Grand Est,Ardennes
+08362,Rethel,Grand Est,Ardennes
+08486,Vireux-Molhain,Grand Est,Ardennes
+10323,Romilly-sur-Seine,Grand Est,Aube
+11049,Bram,Occitanie,Aude
+11106,Coursan,Occitanie,Aude
+11116,Cuxac-d'Aude,Occitanie,Aude
+11315,Rieux-Minervois,Occitanie,Aude
+11397,Trèbes,Occitanie,Aude
+12094,Entraygues-sur-Truyère,Occitanie,Aveyron
+12096,Espalion,Occitanie,Aveyron
+12138,Marcillac-Vallon,Occitanie,Aveyron
+12164,Mur-de-Barrez,Occitanie,Aveyron
+12185,Pont-de-Salars,Occitanie,Aveyron
+12199,Rignac,Occitanie,Aveyron
+12298,Villecomtal,Occitanie,Aveyron
+13097,Saint-Martin-de-Crau,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+14047,Bayeux,Normandie,Calvados
+14191,Courseulles-sur-Mer,Normandie,Calvados
+14229,Dozulé,Normandie,Calvados
+14478,Orbec,Normandie,Calvados
+14515,Port-en-Bessin-Huppain,Normandie,Calvados
+14692,Tilly-sur-Seulles,Normandie,Calvados
+14752,Villers-Bocage,Normandie,Calvados
+15045,Chaudes-Aigues,Auvergne-Rhône-Alpes,Cantal
+15120,Mauriac,Auvergne-Rhône-Alpes,Cantal
+15138,Murat,Auvergne-Rhône-Alpes,Cantal
+15202,Saint-Martin-Valmeroux,Auvergne-Rhône-Alpes,Cantal
+15215,Saint-Simon,Auvergne-Rhône-Alpes,Cantal
+16005,Aigre,Nouvelle-Aquitaine,Charente
+16073,Chalais,Nouvelle-Aquitaine,Charente
+16206,Mansle-les-Fontaines,Nouvelle-Aquitaine,Charente
+16223,Montbron,Nouvelle-Aquitaine,Charente
+16230,Montmoreau,Nouvelle-Aquitaine,Charente
+16292,Ruffec,Nouvelle-Aquitaine,Charente
+17397,Saint-Savinien,Nouvelle-Aquitaine,Charente-Maritime
+18003,Les Aix-d'Angillon,Centre-Val de Loire,Cher
+18018,Avord,Centre-Val de Loire,Cher
+18023,Baugy,Centre-Val de Loire,Cher
+18108,La Guerche-sur-l'Aubois,Centre-Val de Loire,Cher
+18242,Sancoins,Centre-Val de Loire,Cher
+19121,Lubersac,Nouvelle-Aquitaine,Corrèze
+21103,Brazey-en-Plaine,Bourgogne-Franche-Comté,Côte-d'Or
+21154,Châtillon-sur-Seine,Bourgogne-Franche-Comté,Côte-d'Or
+21425,Montbard,Bourgogne-Franche-Comté,Côte-d'Or
+21607,Seurre,Bourgogne-Franche-Comté,Côte-d'Or
+22084,Jugon-les-Lacs - Commune nouvelle,Bretagne,Côtes-d'Armor
+22121,Lanvollon,Bretagne,Côtes-d'Armor
+22158,Guerlédan,Bretagne,Côtes-d'Armor
+22207,Plouaret,Bretagne,Côtes-d'Armor
+22262,Quintin,Bretagne,Côtes-d'Armor
+22321,Saint-Nicolas-du-Pélem,Bretagne,Côtes-d'Armor
+23001,Ahun,Nouvelle-Aquitaine,Creuse
+23013,Auzances,Nouvelle-Aquitaine,Creuse
+23076,Évaux-les-Bains,Nouvelle-Aquitaine,Creuse
+24164,Excideuil,Nouvelle-Aquitaine,Dordogne
+24520,Sarlat-la-Canéda,Nouvelle-Aquitaine,Dordogne
+25475,Quingey,Bourgogne-Franche-Comté,Doubs
+26166,Loriol-sur-Drôme,Auvergne-Rhône-Alpes,Drôme
+27103,Bourg-Achard,Normandie,Eure
+27105,Grand Bourgtheroulde,Normandie,Eure
+27198,Mesnils-sur-Iton,Normandie,Eure
+27213,Vexin-sur-Epte,Normandie,Eure
+27275,Gaillon,Normandie,Eure
+27507,Saint-André-de-l'Eure,Normandie,Eure
+27629,Thiberville,Normandie,Eure
+27679,Verneuil d'Avre et d'Iton,Normandie,Eure
+28018,Authon-du-Perche,Centre-Val de Loire,Eure-et-Loir
+28059,Brezolles,Centre-Val de Loire,Eure-et-Loir
+28116,Courville-sur-Eure,Centre-Val de Loire,Eure-et-Loir
+28199,Janville-en-Beauce,Centre-Val de Loire,Eure-et-Loir
+28348,Saint-Lubin-des-Joncherets,Centre-Val de Loire,Eure-et-Loir
+29003,Audierne,Bretagne,Finistère
+29046,Douarnenez,Bretagne,Finistère
+29135,Loctudy,Bretagne,Finistère
+29163,Pleyber-Christ,Bretagne,Finistère
+29195,Plouguerneau,Bretagne,Finistère
+2A041,Bonifacio,Corse,Corse-du-Sud
+2A348,Vico,Corse,Corse-du-Sud
+2B050,Calvi,Corse,Haute-Corse
+30010,Anduze,Occitanie,Gard
+30029,Barjac,Occitanie,Gard
+30212,Remoulins,Occitanie,Gard
+30259,Saint-Hilaire-de-Brethmas,Occitanie,Gard
+30350,Le Vigan,Occitanie,Gard
+31028,Aurignac,Occitanie,Haute-Garonne
+31042,Bagnères-de-Luchon,Occitanie,Haute-Garonne
+31107,Carbonne,Occitanie,Haute-Garonne
+31523,Salies-du-Salat,Occitanie,Haute-Garonne
+31584,Villemur-sur-Tarn,Occitanie,Haute-Garonne
+32119,Eauze,Occitanie,Gers
+32160,L'Isle-Jourdain,Occitanie,Gers
+32213,Lombez,Occitanie,Gers
+32462,Vic-Fezensac,Occitanie,Gers
+33036,Bazas,Nouvelle-Aquitaine,Gironde
+33140,Créon,Nouvelle-Aquitaine,Gironde
+33240,Lesparre-Médoc,Nouvelle-Aquitaine,Gironde
+33327,Podensac,Nouvelle-Aquitaine,Gironde
+34069,Cazouls-lès-Béziers,Occitanie,Hérault
+34142,Lodève,Occitanie,Hérault
+34162,Montagnac,Occitanie,Hérault
+35019,Bazouges-la-Pérouse,Bretagne,Ille-et-Vilaine
+35072,Châtillon-en-Vendelais,Bretagne,Ille-et-Vilaine
+35109,Étrelles,Bretagne,Ille-et-Vilaine
+35124,Grand-Fougeray,Bretagne,Ille-et-Vilaine
+35167,Martigné-Ferchaud,Bretagne,Ille-et-Vilaine
+35168,Val d'Anast,Bretagne,Ille-et-Vilaine
+35173,Melesse,Bretagne,Ille-et-Vilaine
+35284,Saint-Jouan-des-Guérets,Bretagne,Ille-et-Vilaine
+36141,Neuvy-Saint-Sépulchre,Centre-Val de Loire,Indre
+37020,Beaulieu-lès-Loches,Centre-Val de Loire,Indre-et-Loire
+37167,Neuillé-Pont-Pierre,Centre-Val de Loire,Indre-et-Loire
+38052,Le Bourg-d'Oisans,Auvergne-Rhône-Alpes,Isère
+38130,La Côte-Saint-André,Auvergne-Rhône-Alpes,Isère
+38138,Crémieu,Auvergne-Rhône-Alpes,Isère
+38517,Tullins,Auvergne-Rhône-Alpes,Isère
+39368,Hauts de Bienne,Bourgogne-Franche-Comté,Jura
+40110,Geaune,Nouvelle-Aquitaine,Landes
+40134,Labouheyre,Nouvelle-Aquitaine,Landes
+40224,Peyrehorade,Nouvelle-Aquitaine,Landes
+40245,Roquefort,Nouvelle-Aquitaine,Landes
+41025,Bracieux,Centre-Val de Loire,Loir-et-Cher
+41095,Fréteval,Centre-Val de Loire,Loir-et-Cher
+41173,Beauce la Romaine,Centre-Val de Loire,Loir-et-Cher
+42156,Neulise,Auvergne-Rhône-Alpes,Loire
+42159,Noirétable,Auvergne-Rhône-Alpes,Loire
+42304,Sury-le-Comtal,Auvergne-Rhône-Alpes,Loire
+43051,Le Chambon-sur-Lignon,Auvergne-Rhône-Alpes,Haute-Loire
+43077,Costaros,Auvergne-Rhône-Alpes,Haute-Loire
+43111,Landos,Auvergne-Rhône-Alpes,Haute-Loire
+43163,Riotord,Auvergne-Rhône-Alpes,Haute-Loire
+44067,Guémené-Penfao,Pays de la Loire,Loire-Atlantique
+44098,Missillac,Pays de la Loire,Loire-Atlantique
+44113,Nozay,Pays de la Loire,Loire-Atlantique
+44158,Saint-Étienne-de-Montluc,Pays de la Loire,Loire-Atlantique
+44213,Loireauxence,Pays de la Loire,Loire-Atlantique
+45030,Beaune-la-Rolande,Centre-Val de Loire,Loiret
+45187,Lorris,Centre-Val de Loire,Loiret
+45258,Puiseaux,Centre-Val de Loire,Loiret
+46201,Montcuq-en-Quercy-Blanc,Occitanie,Lot
+46225,Prayssac,Occitanie,Lot
+46231,Puy-l'Évêque,Occitanie,Lot
+47021,Barbaste,Nouvelle-Aquitaine,Lot-et-Garonne
+47052,Casteljaloux,Nouvelle-Aquitaine,Lot-et-Garonne
+47054,Castelmoron-sur-Lot,Nouvelle-Aquitaine,Lot-et-Garonne
+47106,Fumel,Nouvelle-Aquitaine,Lot-et-Garonne
+48061,Florac Trois Rivières,Occitanie,Lozère
+48092,Marvejols,Occitanie,Lozère
+48094,Massegros Causses Gorges,Occitanie,Lozère
+48099,Bourgs sur Colagne,Occitanie,Lozère
+49002,Allonnes,Pays de la Loire,Maine-et-Loire
+49215,Montreuil-Bellay,Pays de la Loire,Maine-et-Loire
+49261,Gennes-Val-de-Loire,Pays de la Loire,Maine-et-Loire
+49373,Lys-Haut-Layon,Pays de la Loire,Maine-et-Loire
+50147,Coutances,Normandie,Manche
+50267,Lessay,Normandie,Manche
+50393,Percy-en-Normandie,Normandie,Manche
+53188,Renazé,Pays de la Loire,Mayenne
+54135,Colombey-les-Belles,Grand Est,Meurthe-et-Moselle
+54425,Piennes,Grand Est,Meurthe-et-Moselle
+54432,Pont-Saint-Vincent,Grand Est,Meurthe-et-Moselle
+55502,Stenay,Grand Est,Meuse
+56053,Elven,Bretagne,Morbihan
+56073,Guémené-sur-Scorff,Bretagne,Morbihan
+56075,Guer,Bretagne,Morbihan
+56101,Languidic,Bretagne,Morbihan
+56143,Muzillac,Bretagne,Morbihan
+56166,Plouay,Bretagne,Morbihan
+56190,Réguiny,Bretagne,Morbihan
+56198,Rohan,Bretagne,Morbihan
+56222,Saint-Jean-Brévelay,Bretagne,Morbihan
+56244,Sérent,Bretagne,Morbihan
+57160,Creutzwald,Grand Est,Moselle
+57240,Freyming-Merlebach,Grand Est,Moselle
+58134,Imphy,Bourgogne-Franche-Comté,Nièvre
+58218,Prémery,Bourgogne-Franche-Comté,Nièvre
+59136,Le Cateau-Cambrésis,Hauts-de-France,Nord
+59153,Condé-sur-l'Escaut,Hauts-de-France,Nord
+59525,Sains-du-Nord,Hauts-de-France,Nord
+60471,Noyon,Hauts-de-France,Oise
+61063,Briouze,Normandie,Orne
+61168,La Ferté Macé,Normandie,Orne
+61258,Le Mêle-sur-Sarthe,Normandie,Orne
+61484,Val-au-Perche,Normandie,Orne
+61486,Tinchebray-Bocage,Normandie,Orne
+62186,Bully-les-Mines,Hauts-de-France,Pas-de-Calais
+62361,Frévent,Hauts-de-France,Pas-de-Calais
+62447,Hesdin,Hauts-de-France,Pas-de-Calais
+62534,Lumbres,Hauts-de-France,Pas-de-Calais
+62758,Saint-Martin-Boulogne,Hauts-de-France,Pas-de-Calais
+62907,Libercourt,Hauts-de-France,Pas-de-Calais
+63010,Arlanc,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63047,La Bourboule,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63048,Bourg-Lastic,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63103,Châtel-Guyon,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63116,Combronde,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63125,Courpière,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63165,Giat,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63236,Mont-Dore,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63285,Pontgibaud,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63415,Sauxillanges,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63457,Vic-le-Comte,Auvergne-Rhône-Alpes,Puy-de-Dôme
+64410,Mourenx,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64417,Nay,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+65304,Maubourguet,Occitanie,Hautes-Pyrénées
+66003,Amélie-les-Bains-Palalda,Occitanie,Pyrénées-Orientales
+66004,Les Angles,Occitanie,Pyrénées-Orientales
+66024,Le Boulou,Occitanie,Pyrénées-Orientales
+67095,Diemeringen,Grand Est,Bas-Rhin
+67324,Niederbronn-les-Bains,Grand Est,Bas-Rhin
+67434,Sarre-Union,Grand Est,Bas-Rhin
+67520,Wasselonne,Grand Est,Bas-Rhin
+68287,Rouffach,Grand Est,Haut-Rhin
+69066,Cours,Auvergne-Rhône-Alpes,Rhône
+69176,Soucieu-en-Jarrest,Auvergne-Rhône-Alpes,Rhône
+69238,Saint-Symphorien-sur-Coise,Auvergne-Rhône-Alpes,Rhône
+69287,Saint-Bonnet-de-Mure,Auvergne-Rhône-Alpes,Rhône
+70026,Arc-lès-Gray,Bourgogne-Franche-Comté,Haute-Saône
+70228,Faverney,Bourgogne-Franche-Comté,Haute-Saône
+70285,Héricourt,Bourgogne-Franche-Comté,Haute-Saône
+70421,Port-sur-Saône,Bourgogne-Franche-Comté,Haute-Saône
+70451,Ronchamp,Bourgogne-Franche-Comté,Haute-Saône
+70467,Saint-Loup-sur-Semouse,Bourgogne-Franche-Comté,Haute-Saône
+71047,Bourbon-Lancy,Bourgogne-Franche-Comté,Saône-et-Loire
+71157,Cuiseaux,Bourgogne-Franche-Comté,Saône-et-Loire
+71190,Épinac,Bourgogne-Franche-Comté,Saône-et-Loire
+71342,Paray-le-Monial,Bourgogne-Franche-Comté,Saône-et-Loire
+71543,Tournus,Bourgogne-Franche-Comté,Saône-et-Loire
+71566,Verdun-sur-le-Doubs,Bourgogne-Franche-Comté,Saône-et-Loire
+72132,La Ferté-Bernard,Pays de la Loire,Sarthe
+72143,Le Grand-Lucé,Pays de la Loire,Sarthe
+72179,Malicorne-sur-Sarthe,Pays de la Loire,Sarthe
+72180,Mamers,Pays de la Loire,Sarthe
+72205,Montbizot,Pays de la Loire,Sarthe
+72289,Sainte-Jamme-sur-Sarthe,Pays de la Loire,Sarthe
+73105,Les Échelles,Auvergne-Rhône-Alpes,Savoie
+73117,Fourneaux,Auvergne-Rhône-Alpes,Savoie
+73171,Montmélian,Auvergne-Rhône-Alpes,Savoie
+74002,Alby-sur-Chéran,Auvergne-Rhône-Alpes,Haute-Savoie
+74137,Groisy,Auvergne-Rhône-Alpes,Haute-Savoie
+74224,La Roche-sur-Foron,Auvergne-Rhône-Alpes,Haute-Savoie
+74276,Taninges,Auvergne-Rhône-Alpes,Haute-Savoie
+76219,Doudeville,Normandie,Seine-Maritime
+76254,Étretat,Normandie,Seine-Maritime
+76255,Eu,Normandie,Seine-Maritime
+76258,Terres-de-Caux,Normandie,Seine-Maritime
+76276,Forges-les-Eaux,Normandie,Seine-Maritime
+76462,Neufchâtel-en-Bray,Normandie,Seine-Maritime
+76711,Le Tréport,Normandie,Seine-Maritime
+77159,Donnemarie-Dontilly,Île-de-France,Seine-et-Marne
+77316,Moret-Loing-et-Orvanne,Île-de-France,Seine-et-Marne
+77379,Provins,Île-de-France,Seine-et-Marne
+78062,Beynes,Île-de-France,Yvelines
+78531,Rosny-sur-Seine,Île-de-France,Yvelines
+79195,Nueil-les-Aubiers,Nouvelle-Aquitaine,Deux-Sèvres
+79299,Saint-Varent,Nouvelle-Aquitaine,Deux-Sèvres
+80182,Cayeux-sur-Mer,Hauts-de-France,Somme
+81105,Graulhet,Occitanie,Tarn
+81219,Puylaurens,Occitanie,Tarn
+81271,Saint-Sulpice-la-Pointe,Occitanie,Tarn
+82013,Beaumont-de-Lomagne,Occitanie,Tarn-et-Garonne
+82151,Roquecor,Occitanie,Tarn-et-Garonne
+83072,Lorgues,Provence-Alpes-Côte d'Azur,Var
+83107,Roquebrune-sur-Argens,Provence-Alpes-Côte d'Azur,Var
+83116,Saint-Maximin-la-Sainte-Baume,Provence-Alpes-Côte d'Azur,Var
+84003,Apt,Provence-Alpes-Côte d'Azur,Vaucluse
+84069,Malaucène,Provence-Alpes-Côte d'Azur,Vaucluse
+84076,Mirabeau,Provence-Alpes-Côte d'Azur,Vaucluse
+84088,Pernes-les-Fontaines,Provence-Alpes-Côte d'Azur,Vaucluse
+84129,Sorgues,Provence-Alpes-Côte d'Azur,Vaucluse
+85128,Luçon,Pays de la Loire,Vendée
+85151,Mortagne-sur-Sèvre,Pays de la Loire,Vendée
+85154,Mouilleron-Saint-Germain,Pays de la Loire,Vendée
+86112,L'Isle-Jourdain,Nouvelle-Aquitaine,Vienne
+86165,Montmorillon,Nouvelle-Aquitaine,Vienne
+86207,La Roche-Posay,Nouvelle-Aquitaine,Vienne
+87059,Le Dorat,Nouvelle-Aquitaine,Haute-Vienne
+87106,Nexon,Nouvelle-Aquitaine,Haute-Vienne
+88078,Bruyères,Grand Est,Vosges
+88310,Monthureux-sur-Saône,Grand Est,Vosges
+88351,Plombières-les-Bains,Grand Est,Vosges
+89073,Champignelles,Bourgogne-Franche-Comté,Yonne
+90053,Grandvillars,Bourgogne-Franche-Comté,Territoire de Belfort
+91200,Dourdan,Île-de-France,Essonne
+91232,La Ferté-Alais,Île-de-France,Essonne
+97116,Morne-à-l'Eau,Guadeloupe,Guadeloupe
+97130,Terre-de-Bas,Guadeloupe,Guadeloupe
+97232,Le Vauclin,Martinique,Martinique
+97405,Petite-Île,La Réunion,La Réunion
+97424,Cilaos,La Réunion,La Réunion
+97614,Ouangani,Mayotte,Mayotte
+01303,Poncin,Auvergne-Rhône-Alpes,Ain
+02360,Villeneuve-sur-Aisne,Hauts-de-France,Aisne
+02543,Neuilly-Saint-Front,Hauts-de-France,Aisne
+02720,Sissonne,Hauts-de-France,Aisne
+02789,Vervins,Hauts-de-France,Aisne
+04019,Barcelonnette,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04166,Riez,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+05046,Embrun,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+06136,Sospel,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+07042,Bourg-Saint-Andéol,Auvergne-Rhône-Alpes,Ardèche
+07181,Le Pouzin,Auvergne-Rhône-Alpes,Ardèche
+07341,Villeneuve-de-Berg,Auvergne-Rhône-Alpes,Ardèche
+08185,Fumay,Grand Est,Ardennes
+08311,Mouzon,Grand Est,Ardennes
+08328,Nouzonville,Grand Est,Ardennes
+09185,Mazères,Occitanie,Ariège
+10401,Vendeuvre-sur-Barse,Grand Est,Aube
+11170,Gruissan,Occitanie,Aude
+11203,Lézignan-Corbières,Occitanie,Aude
+11206,Limoux,Occitanie,Aude
+12224,Saint Geniez d'Olt et d'Aubrac,Occitanie,Aveyron
+13014,Berre-l'Étang,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+13050,Lambesc,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+13084,La Roque-d'Anthéron,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+13110,Trets,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+14371,Livarot-Pays-d'Auge,Normandie,Calvados
+14689,Thury-Harcourt-le-Hom,Normandie,Calvados
+14726,Valdallière,Normandie,Calvados
+14754,Villers-sur-Mer,Normandie,Calvados
+15001,Allanche,Auvergne-Rhône-Alpes,Cantal
+15083,Jussac,Auvergne-Rhône-Alpes,Cantal
+15134,Montsalvy,Auvergne-Rhône-Alpes,Cantal
+15140,Naucelles,Auvergne-Rhône-Alpes,Cantal
+15141,Neussargues en Pinatelle,Auvergne-Rhône-Alpes,Cantal
+15153,Pleaux,Auvergne-Rhône-Alpes,Cantal
+15204,Saint-Paul-des-Landes,Auvergne-Rhône-Alpes,Cantal
+15258,Vic-sur-Cère,Auvergne-Rhône-Alpes,Cantal
+16028,Barbezieux-Saint-Hilaire,Nouvelle-Aquitaine,Charente
+16408,Villebois-Lavalette,Nouvelle-Aquitaine,Charente
+17024,Aulnay,Nouvelle-Aquitaine,Charente-Maritime
+17127,Courçon,Nouvelle-Aquitaine,Charente-Maritime
+17219,Marennes-Hiers-Brouage,Nouvelle-Aquitaine,Charente-Maritime
+17236,Mirambeau,Nouvelle-Aquitaine,Charente-Maritime
+17283,Pons,Nouvelle-Aquitaine,Charente-Maritime
+17284,Pont-l'Abbé-d'Arnoult,Nouvelle-Aquitaine,Charente-Maritime
+18127,Lignières,Centre-Val de Loire,Cher
+18141,Mehun-sur-Yèvre,Centre-Val de Loire,Cher
+18197,Saint-Amand-Montrond,Centre-Val de Loire,Cher
+18207,Saint-Florent-sur-Cher,Centre-Val de Loire,Cher
+18223,Saint-Martin-d'Auxigny,Centre-Val de Loire,Cher
+19028,Bort-les-Orgues,Nouvelle-Aquitaine,Corrèze
+19148,Neuvic,Nouvelle-Aquitaine,Corrèze
+19276,Uzerche,Nouvelle-Aquitaine,Corrèze
+21663,Venarey-les-Laumes,Bourgogne-Franche-Comté,Côte-d'Or
+21710,Vitteaux,Bourgogne-Franche-Comté,Côte-d'Or
+22020,Broons,Bretagne,Côtes-d'Armor
+22032,Caulnes,Bretagne,Côtes-d'Armor
+22172,Plancoët,Bretagne,Côtes-d'Armor
+23030,Bourganeuf,Nouvelle-Aquitaine,Creuse
+23061,Chénérailles,Nouvelle-Aquitaine,Creuse
+23075,Dun-le-Palestel,Nouvelle-Aquitaine,Creuse
+24068,Le Buisson-de-Cadouin,Nouvelle-Aquitaine,Dordogne
+24167,Eymet,Nouvelle-Aquitaine,Dordogne
+24212,Issigeac,Nouvelle-Aquitaine,Dordogne
+24223,Lalinde,Nouvelle-Aquitaine,Dordogne
+24227,Lanouaille,Nouvelle-Aquitaine,Dordogne
+24311,Nontron,Nouvelle-Aquitaine,Dordogne
+24354,La Roche-Chalais,Nouvelle-Aquitaine,Dordogne
+25156,Pays-de-Clerval,Bourgogne-Franche-Comté,Doubs
+25578,Valdahon,Bourgogne-Franche-Comté,Doubs
+26074,La Chapelle-en-Vercors,Auvergne-Rhône-Alpes,Drôme
+26113,Die,Auvergne-Rhône-Alpes,Drôme
+26333,Saint-Vallier,Auvergne-Rhône-Alpes,Drôme
+27016,Les Andelys,Normandie,Eure
+27022,Le Val d'Hazey,Normandie,Eure
+27112,Breteuil,Normandie,Eure
+27226,Étrépagny,Normandie,Eure
+27284,Gisors,Normandie,Eure
+27413,Montfort-sur-Risle,Normandie,Eure
+27438,Nonancourt,Normandie,Eure
+27469,Pont-de-l'Arche,Normandie,Eure
+27502,Rugles,Normandie,Eure
+28089,Châteauneuf-en-Thymerais,Centre-Val de Loire,Eure-et-Loir
+29117,Lannilis,Bretagne,Finistère
+29124,Lesneven,Bretagne,Finistère
+29160,Plabennec,Bretagne,Finistère
+29178,Ploudalmézeau,Bretagne,Finistère
+29220,Pont-l'Abbé,Bretagne,Finistère
+29259,Saint-Pol-de-Léon,Bretagne,Finistère
+29274,Scaër,Bretagne,Finistère
+29277,Sizun,Bretagne,Finistère
+29293,Trégunc,Bretagne,Finistère
+2A228,Pietrosella,Corse,Corse-du-Sud
+2A272,Sartène,Corse,Corse-du-Sud
+2B123,Ghisonaccia,Corse,Haute-Corse
+2B134,L'Île-Rousse,Corse,Haute-Corse
+30003,Aigues-Mortes,Occitanie,Gard
+30012,Aramon,Occitanie,Gard
+30227,Saint-Ambroix,Occitanie,Gard
+30341,Vauvert,Occitanie,Gard
+31020,Aspet,Occitanie,Haute-Garonne
+31106,Caraman,Occitanie,Haute-Garonne
+31232,Grenade,Occitanie,Haute-Garonne
+31324,Martres-Tolosane,Occitanie,Haute-Garonne
+31396,Nailloux,Occitanie,Haute-Garonne
+31503,Saint-Martory,Occitanie,Haute-Garonne
+32106,Cologne,Occitanie,Gers
+32107,Condom,Occitanie,Gers
+32208,Lectoure,Occitanie,Gers
+32249,Mauvezin,Occitanie,Gers
+32252,Miélan,Occitanie,Gers
+32256,Mirande,Occitanie,Gers
+32285,Montesquiou,Occitanie,Gers
+32426,Seissan,Occitanie,Gers
+32459,Valence-sur-Baïse,Occitanie,Gers
+33067,Bourg,Nouvelle-Aquitaine,Gironde
+33081,Cadillac-sur-Garonne,Nouvelle-Aquitaine,Gironde
+33352,La Réole,Nouvelle-Aquitaine,Gironde
+33366,Saint-André-de-Cubzac,Nouvelle-Aquitaine,Gironde
+34245,Saint-Chinian,Occitanie,Hérault
+34293,La Salvetat-sur-Agout,Occitanie,Hérault
+35037,Bréal-sous-Montfort,Bretagne,Ille-et-Vilaine
+35049,Cancale,Bretagne,Ille-et-Vilaine
+35085,Combourg,Bretagne,Ille-et-Vilaine
+35093,Dinard,Bretagne,Ille-et-Vilaine
+35095,Dol-de-Bretagne,Bretagne,Ille-et-Vilaine
+35125,La Guerche-de-Bretagne,Bretagne,Ille-et-Vilaine
+35136,Janzé,Bretagne,Ille-et-Vilaine
+35207,Noyal-sur-Vilaine,Bretagne,Ille-et-Vilaine
+35219,Pipriac,Bretagne,Ille-et-Vilaine
+35222,Pleine-Fougères,Bretagne,Ille-et-Vilaine
+35227,Pleumeleuc,Bretagne,Ille-et-Vilaine
+35228,Pleurtuit,Bretagne,Ille-et-Vilaine
+35253,Saint-Aubin-du-Cormier,Bretagne,Ille-et-Vilaine
+35308,Mesnil-Roc'h,Bretagne,Ille-et-Vilaine
+35337,Tinténiac,Bretagne,Ille-et-Vilaine
+36208,Sainte-Sévère-sur-Indre,Centre-Val de Loire,Indre
+36241,Villedieu-sur-Indre,Centre-Val de Loire,Indre
+37115,Descartes,Centre-Val de Loire,Indre-et-Loire
+37119,L'Île-Bouchard,Centre-Val de Loire,Indre-et-Loire
+37132,Loches,Centre-Val de Loire,Indre-et-Loire
+37189,Preuilly-sur-Claise,Centre-Val de Loire,Indre-et-Loire
+37196,Richelieu,Centre-Val de Loire,Indre-et-Loire
+38314,Pontcharra,Auvergne-Rhône-Alpes,Isère
+38416,Saint-Marcellin,Auvergne-Rhône-Alpes,Isère
+38509,La Tour-du-Pin,Auvergne-Rhône-Alpes,Isère
+38548,Villard-de-Lans,Auvergne-Rhône-Alpes,Isère
+39013,Arbois,Bourgogne-Franche-Comté,Jura
+39016,Arinthod,Bourgogne-Franche-Comté,Jura
+40001,Aire-sur-l'Adour,Nouvelle-Aquitaine,Landes
+40282,Saint-Sever,Nouvelle-Aquitaine,Landes
+41106,Lamotte-Beuvron,Centre-Val de Loire,Loir-et-Cher
+41198,Saint-Aignan,Centre-Val de Loire,Loir-et-Cher
+41232,Salbris,Centre-Val de Loire,Loir-et-Cher
+43012,Aurec-sur-Loire,Auvergne-Rhône-Alpes,Haute-Loire
+43040,Brioude,Auvergne-Rhône-Alpes,Haute-Loire
+43080,Craponne-sur-Arzon,Auvergne-Rhône-Alpes,Haute-Loire
+43137,Monistrol-sur-Loire,Auvergne-Rhône-Alpes,Haute-Loire
+43177,Saint-Didier-en-Velay,Auvergne-Rhône-Alpes,Haute-Loire
+43205,Saint-Just-Malmont,Auvergne-Rhône-Alpes,Haute-Loire
+43224,Sainte-Sigolène,Auvergne-Rhône-Alpes,Haute-Loire
+43244,Tence,Auvergne-Rhône-Alpes,Haute-Loire
+44043,Clisson,Pays de la Loire,Loire-Atlantique
+44071,Haute-Goulaine,Pays de la Loire,Loire-Atlantique
+44129,Pontchâteau,Pays de la Loire,Loire-Atlantique
+44186,Sainte-Pazanne,Pays de la Loire,Loire-Atlantique
+45146,La Ferté-Saint-Aubin,Centre-Val de Loire,Loiret
+45224,Neuville-aux-Bois,Centre-Val de Loire,Loiret
+46029,Biars-sur-Cère,Occitanie,Lot
+46066,Cazals,Occitanie,Lot
+46128,Gramat,Occitanie,Lot
+46148,Lalbenque,Occitanie,Lot
+46182,Luzech,Occitanie,Lot
+47015,Astaffort,Nouvelle-Aquitaine,Lot-et-Garonne
+47175,Monflanquin,Nouvelle-Aquitaine,Lot-et-Garonne
+47195,Nérac,Nouvelle-Aquitaine,Lot-et-Garonne
+47210,Port-Sainte-Marie,Nouvelle-Aquitaine,Lot-et-Garonne
+48075,Ispagnac,Occitanie,Lozère
+48156,Saint-Germain-du-Teil,Occitanie,Lozère
+49018,Baugé-en-Anjou,Pays de la Loire,Maine-et-Loire
+49125,Doué-en-Anjou,Pays de la Loire,Maine-et-Loire
+50003,Agon-Coutainville,Normandie,Manche
+50074,Brécey,Normandie,Manche
+50237,La Haye-Pesnel,Normandie,Manche
+50412,Port-Bail-sur-Mer,Normandie,Manche
+50487,Saint-James,Normandie,Manche
+50539,Saint-Pierre-Église,Normandie,Manche
+50562,Saint-Vaast-la-Hougue,Normandie,Manche
+51250,Fismes,Grand Est,Marne
+51388,Mourmelon-le-Grand,Grand Est,Marne
+51423,Pargny-sur-Saulx,Grand Est,Marne
+51531,Sermaize-les-Bains,Grand Est,Marne
+52064,Bourmont-entre-Meuse-et-Mouzon,Grand Est,Haute-Marne
+52114,Châteauvillain,Grand Est,Haute-Marne
+52177,Doulaincourt-Saucourt,Grand Est,Haute-Marne
+52353,Nogent,Grand Est,Haute-Marne
+52444,Saint-Blin,Grand Est,Haute-Marne
+53077,Cossé-le-Vivien,Pays de la Loire,Mayenne
+53127,Lassay-les-Châteaux,Pays de la Loire,Mayenne
+53147,Mayenne,Pays de la Loire,Mayenne
+53185,Pré-en-Pail-Saint-Samson,Pays de la Loire,Mayenne
+53271,Villaines-la-Juhel,Pays de la Loire,Mayenne
+54039,Baccarat,Grand Est,Meurthe-et-Moselle
+54129,Cirey-sur-Vezouze,Grand Est,Meurthe-et-Moselle
+54397,Neuves-Maisons,Grand Est,Meurthe-et-Moselle
+54400,Nomeny,Grand Est,Meurthe-et-Moselle
+54563,Vézelise,Grand Est,Meurthe-et-Moselle
+55063,Bouligny,Grand Est,Meuse
+56010,Baud,Bretagne,Morbihan
+56067,Grand-Champ,Bretagne,Morbihan
+56117,Locminé,Bretagne,Morbihan
+56123,Malansac,Bretagne,Morbihan
+56152,Le Palais,Bretagne,Morbihan
+57132,Château-Salins,Grand Est,Moselle
+57177,Dieuze,Grand Est,Moselle
+58059,La Charité-sur-Loire,Bourgogne-Franche-Comté,Nièvre
+58149,Luzy,Bourgogne-Franche-Comté,Nièvre
+59036,Avesnes-sur-Helpe,Hauts-de-France,Nord
+60103,Bresles,Hauts-de-France,Oise
+60178,Crèvecœur-le-Grand,Hauts-de-France,Oise
+60245,Formerie,Hauts-de-France,Oise
+60286,Grandvilliers,Hauts-de-France,Oise
+60333,Lachapelle-aux-Pots,Hauts-de-France,Oise
+60509,Pont-Sainte-Maxence,Hauts-de-France,Oise
+61145,Domfront en Poiraie,Normandie,Orne
+61153,Écouché-les-Vallées,Normandie,Orne
+61293,Mortagne-au-Perche,Normandie,Orne
+61345,Rémalard en Perche,Normandie,Orne
+62048,Auchel,Hauts-de-France,Pas-de-Calais
+62194,Calonne-Ricouart,Hauts-de-France,Pas-de-Calais
+62894,Wimille,Hauts-de-France,Pas-de-Calais
+63003,Ambert,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63004,Les Ancizes-Comps,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63009,Ardes,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63038,Besse-et-Saint-Anastaise,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63245,Mozac,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63283,Pontaumur,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63295,Randan,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63305,Rochefort-Montagne,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63338,Saint-Éloy-les-Mines,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63352,Saint-Germain-Lembron,Auvergne-Rhône-Alpes,Puy-de-Dôme
+64260,Hendaye,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64513,Sauveterre-de-Béarn,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+65129,Castelnau-Magnoac,Occitanie,Hautes-Pyrénées
+65388,Saint-Lary-Soulan,Occitanie,Hautes-Pyrénées
+66025,Bourg-Madame,Occitanie,Pyrénées-Orientales
+66088,Ille-sur-Têt,Occitanie,Pyrénées-Orientales
+66167,Saillagouse,Occitanie,Pyrénées-Orientales
+66187,Saint-Paul-de-Fenouillet,Occitanie,Pyrénées-Orientales
+67066,La Broque,Grand Est,Bas-Rhin
+67222,Ingwiller,Grand Est,Bas-Rhin
+67300,Molsheim,Grand Est,Bas-Rhin
+67388,Reichshoffen,Grand Est,Bas-Rhin
+67544,Wissembourg,Grand Est,Bas-Rhin
+68004,Altkirch,Grand Est,Haut-Rhin
+69006,Amplepuis,Auvergne-Rhône-Alpes,Rhône
+69201,Sainte-Foy-l'Argentière,Auvergne-Rhône-Alpes,Rhône
+70279,Gray,Bourgogne-Franche-Comté,Haute-Saône
+70311,Luxeuil-les-Bains,Bourgogne-Franche-Comté,Haute-Saône
+70482,Scey-sur-Saône-et-Saint-Albin,Bourgogne-Franche-Comté,Haute-Saône
+71176,Digoin,Bourgogne-Franche-Comté,Saône-et-Loire
+71230,Gueugnon,Bourgogne-Franche-Comté,Saône-et-Loire
+71263,Louhans,Bourgogne-Franche-Comté,Saône-et-Loire
+72050,Brûlon,Pays de la Loire,Sarthe
+72168,Loué,Pays de la Loire,Sarthe
+72176,Le Lude,Pays de la Loire,Sarthe
+72269,Saint-Calais,Pays de la Loire,Sarthe
+72276,Saint-Cosme-en-Vairais,Pays de la Loire,Sarthe
+72329,Savigné-l'Évêque,Pays de la Loire,Sarthe
+72373,Vibraye,Pays de la Loire,Sarthe
+73054,Bourg-Saint-Maurice,Auvergne-Rhône-Alpes,Savoie
+73157,Modane,Auvergne-Rhône-Alpes,Savoie
+73181,Moûtiers,Auvergne-Rhône-Alpes,Savoie
+73204,Le Pont-de-Beauvoisin,Auvergne-Rhône-Alpes,Savoie
+73215,Valgelon-La Rochette,Auvergne-Rhône-Alpes,Savoie
+73248,Saint-Jean-de-Maurienne,Auvergne-Rhône-Alpes,Savoie
+74043,Bons-en-Chablais,Auvergne-Rhône-Alpes,Haute-Savoie
+74096,Cruseilles,Auvergne-Rhône-Alpes,Haute-Savoie
+74123,Faverges-Seythenex,Auvergne-Rhône-Alpes,Haute-Savoie
+74280,Thônes,Auvergne-Rhône-Alpes,Haute-Savoie
+74282,Fillière,Auvergne-Rhône-Alpes,Haute-Savoie
+76222,Duclair,Normandie,Seine-Maritime
+76495,Pavilly,Normandie,Seine-Maritime
+76709,Le Trait,Normandie,Seine-Maritime
+77142,Crécy-la-Chapelle,Île-de-France,Seine-et-Marne
+77182,La Ferté-Gaucher,Île-de-France,Seine-et-Marne
+77183,La Ferté-sous-Jouarre,Île-de-France,Seine-et-Marne
+77385,Rebais,Île-de-France,Seine-et-Marne
+78003,Ablis,Île-de-France,Yvelines
+78255,Freneuse,Île-de-France,Yvelines
+79057,Brioux-sur-Boutonne,Nouvelle-Aquitaine,Deux-Sèvres
+79101,Coulonges-sur-l'Autize,Nouvelle-Aquitaine,Deux-Sèvres
+79170,Mauzé-sur-le-Mignon,Nouvelle-Aquitaine,Deux-Sèvres
+79270,Saint-Maixent-l'École,Nouvelle-Aquitaine,Deux-Sèvres
+80013,Airaines,Hauts-de-France,Somme
+80186,Chaulnes,Hauts-de-France,Somme
+80211,Conty,Hauts-de-France,Somme
+80253,Doullens,Hauts-de-France,Somme
+80585,Nesle,Hauts-de-France,Somme
+81192,Murat-sur-Vèbre,Occitanie,Tarn
+82037,Caussade,Occitanie,Tarn-et-Garonne
+82038,Caylus,Occitanie,Tarn-et-Garonne
+82042,Cazes-Mondenard,Occitanie,Tarn-et-Garonne
+83007,Aups,Provence-Alpes-Côte d'Azur,Var
+83016,Le Beausset,Provence-Alpes-Côte d'Azur,Var
+83086,Le Muy,Provence-Alpes-Côte d'Azur,Var
+84123,Sault,Provence-Alpes-Côte d'Azur,Vaucluse
+85020,Benet,Pays de la Loire,Vendée
+85051,Chantonnay,Pays de la Loire,Vendée
+85070,Coëx,Pays de la Loire,Vendée
+85222,Saint-Gilles-Croix-de-Vie,Pays de la Loire,Vendée
+86140,Lussac-les-Châteaux,Nouvelle-Aquitaine,Vienne
+86160,Mirebeau,Nouvelle-Aquitaine,Vienne
+87032,Châlus,Nouvelle-Aquitaine,Haute-Vienne
+87041,Châteauponsac,Nouvelle-Aquitaine,Haute-Vienne
+87154,Saint-Junien,Nouvelle-Aquitaine,Haute-Vienne
+88090,Charmes,Grand Est,Vosges
+88349,Plainfaing,Grand Est,Vosges
+88367,Rambervillers,Grand Est,Vosges
+88530,Xertigny,Grand Est,Vosges
+89025,Avallon,Bourgogne-Franche-Comté,Yonne
+89368,Saint-Sauveur-en-Puisaye,Bourgogne-Franche-Comté,Yonne
+89419,Toucy,Bourgogne-Franche-Comté,Yonne
+90052,Giromagny,Bourgogne-Franche-Comté,Territoire de Belfort
+91111,Briis-sous-Forges,Île-de-France,Essonne
+97117,Le Moule,Guadeloupe,Guadeloupe
+97227,Sainte-Luce,Martinique,Martinique
+97228,Sainte-Marie,Martinique,Martinique
+97353,Maripasoula,Guyane,Guyane
+97362,Papaichton,Guyane,Guyane
+97404,L'Étang-Salé,La Réunion,La Réunion
+97419,Sainte-Rose,La Réunion,La Réunion
+97423,Les Trois-Bassins,La Réunion,La Réunion
+97603,Bandrele,Mayotte,Mayotte
+01143,Divonne-les-Bains,Auvergne-Rhône-Alpes,Ain
+01173,Gex,Auvergne-Rhône-Alpes,Ain
+01388,Saint-Trivier-de-Courtes,Auvergne-Rhône-Alpes,Ain
+02018,Anizy-le-Grand,Hauts-de-France,Aisne
+02095,Bohain-en-Vermandois,Hauts-de-France,Aisne
+02334,Fresnoy-le-Grand,Hauts-de-France,Aisne
+02558,Le Nouvion-en-Thiérache,Hauts-de-France,Aisne
+02666,Rozoy-sur-Serre,Hauts-de-France,Aisne
+03084,Cosne-d'Allier,Auvergne-Rhône-Alpes,Allier
+03102,Dompierre-sur-Besbre,Auvergne-Rhône-Alpes,Allier
+03186,Montmarault,Auvergne-Rhône-Alpes,Allier
+03236,Saint-Germain-des-Fossés,Auvergne-Rhône-Alpes,Allier
+03254,Saint-Pourçain-sur-Sioule,Auvergne-Rhône-Alpes,Allier
+03292,Tronget,Auvergne-Rhône-Alpes,Allier
+04008,Annot,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04173,Saint-André-les-Alpes,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+04205,Seyne,Provence-Alpes-Côte d'Azur,Alpes-de-Haute-Provence
+05040,Chorges,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+05170,Tallard,Provence-Alpes-Côte d'Azur,Hautes-Alpes
+06099,Puget-Théniers,Provence-Alpes-Côte d'Azur,Alpes-Maritimes
+07346,Viviers,Auvergne-Rhône-Alpes,Ardèche
+08025,Attigny,Grand Est,Ardennes
+08090,Carignan,Grand Est,Ardennes
+08190,Givet,Grand Est,Ardennes
+08302,Monthermé,Grand Est,Ardennes
+08367,Rocroi,Grand Est,Ardennes
+09032,Ax-les-Thermes,Occitanie,Ariège
+09160,Lavelanet,Occitanie,Ariège
+09194,Mirepoix,Occitanie,Ariège
+09261,Saint-Girons,Occitanie,Ariège
+09282,Saverdun,Occitanie,Ariège
+10420,Villenauxe-la-Grande,Grand Est,Aube
+12056,Baraqueville,Occitanie,Aveyron
+12119,Laguiole,Occitanie,Aveyron
+12169,Naucelle,Occitanie,Aveyron
+13027,Châteaurenard,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+13078,Port-Saint-Louis-du-Rhône,Provence-Alpes-Côte d'Azur,Bouches-du-Rhône
+14100,Bretteville-sur-Laize,Normandie,Calvados
+14257,Évrecy,Normandie,Calvados
+14258,Falaise,Normandie,Calvados
+14370,Le Molay-Littry,Normandie,Calvados
+14384,Luc-sur-Mer,Normandie,Calvados
+14488,Ouistreham,Normandie,Calvados
+14516,Potigny,Normandie,Calvados
+14658,Noues de Sienne,Normandie,Calvados
+15054,Condat,Auvergne-Rhône-Alpes,Cantal
+15094,Laroquebrou,Auvergne-Rhône-Alpes,Cantal
+15122,Maurs,Auvergne-Rhône-Alpes,Cantal
+15152,Pierrefort,Auvergne-Rhône-Alpes,Cantal
+15162,Riom-ès-Montagnes,Auvergne-Rhône-Alpes,Cantal
+15221,Sansac-de-Marmiesse,Auvergne-Rhône-Alpes,Cantal
+15255,Vézac,Auvergne-Rhône-Alpes,Cantal
+16090,Châteauneuf-sur-Charente,Nouvelle-Aquitaine,Charente
+16167,Jarnac,Nouvelle-Aquitaine,Charente
+17218,Marans,Nouvelle-Aquitaine,Charente-Maritime
+17241,Montguyon,Nouvelle-Aquitaine,Charente-Maritime
+17309,Saint-Aigulin,Nouvelle-Aquitaine,Charente-Maritime
+17385,Saint-Pierre-d'Oléron,Nouvelle-Aquitaine,Charente-Maritime
+17434,Surgères,Nouvelle-Aquitaine,Charente-Maritime
+18015,Aubigny-sur-Nère,Centre-Val de Loire,Cher
+18109,Henrichemont,Centre-Val de Loire,Cher
+19010,Argentat-sur-Dordogne,Nouvelle-Aquitaine,Corrèze
+19019,Beaulieu-sur-Dordogne,Nouvelle-Aquitaine,Corrèze
+19023,Beynat,Nouvelle-Aquitaine,Corrèze
+19073,Égletons,Nouvelle-Aquitaine,Corrèze
+19269,Treignac,Nouvelle-Aquitaine,Corrèze
+19275,Ussel,Nouvelle-Aquitaine,Corrèze
+21023,Arnay-le-Duc,Bourgogne-Franche-Comté,Côte-d'Or
+21038,Auxonne,Bourgogne-Franche-Comté,Côte-d'Or
+21317,Is-sur-Tille,Bourgogne-Franche-Comté,Côte-d'Or
+21584,Saulieu,Bourgogne-Franche-Comté,Côte-d'Or
+22203,Plœuc-L'Hermitage,Bretagne,Côtes-d'Armor
+22206,Châtelaudren-Plouagat,Bretagne,Côtes-d'Armor
+22266,Rostrenen,Bretagne,Côtes-d'Armor
+23021,Bénévent-l'Abbaye,Nouvelle-Aquitaine,Creuse
+23067,La Courtine,Nouvelle-Aquitaine,Creuse
+23093,Gouzon,Nouvelle-Aquitaine,Creuse
+23247,Saint-Vaury,Nouvelle-Aquitaine,Creuse
+24035,Pays de Belvès,Nouvelle-Aquitaine,Dordogne
+24064,Brantôme en Périgord,Nouvelle-Aquitaine,Dordogne
+24299,Mussidan,Nouvelle-Aquitaine,Dordogne
+24352,Ribérac,Nouvelle-Aquitaine,Dordogne
+24376,Saint Aulaye-Puymangou,Nouvelle-Aquitaine,Dordogne
+24547,Terrasson-Lavilledieu,Nouvelle-Aquitaine,Dordogne
+24550,Thenon,Nouvelle-Aquitaine,Dordogne
+25259,Frasne,Bourgogne-Franche-Comté,Doubs
+25463,Pont-de-Roide-Vermondans,Bourgogne-Franche-Comté,Doubs
+26108,Crest,Auvergne-Rhône-Alpes,Drôme
+26220,Nyons,Auvergne-Rhône-Alpes,Drôme
+26301,Saint-Donat-sur-l'Herbasse,Auvergne-Rhône-Alpes,Drôme
+27049,Mesnil-en-Ouche,Normandie,Eure
+27065,Beuzeville,Normandie,Eure
+27165,Conches-en-Ouche,Normandie,Eure
+27170,Cormeilles,Normandie,Eure
+27230,Ézy-sur-Eure,Normandie,Eure
+27428,Le Neubourg,Normandie,Eure
+27467,Pont-Audemer,Normandie,Eure
+28140,Épernon,Centre-Val de Loire,Eure-et-Loir
+28373,Senonches,Centre-Val de Loire,Eure-et-Loir
+28393,Tremblay-les-Villages,Centre-Val de Loire,Eure-et-Loir
+29026,Châteaulin,Bretagne,Finistère
+29027,Châteauneuf-du-Faou,Bretagne,Finistère
+29042,Crozon,Bretagne,Finistère
+29055,Le Folgoët,Bretagne,Finistère
+29081,Huelgoat,Bretagne,Finistère
+29103,Landerneau,Bretagne,Finistère
+29210,Plouvorn,Bretagne,Finistère
+29241,Rosporden,Bretagne,Finistère
+2B298,Saint-Florent,Corse,Haute-Corse
+30062,Calvisson,Occitanie,Gard
+30202,Pont-Saint-Esprit,Occitanie,Gard
+30221,Roquemaure,Occitanie,Gard
+30258,Saint-Gilles,Occitanie,Gard
+30269,Saint-Jean-du-Gard,Occitanie,Gard
+31080,Boulogne-sur-Gesse,Occitanie,Haute-Garonne
+31098,Cadours,Occitanie,Haute-Garonne
+31135,Cazères,Occitanie,Haute-Garonne
+31202,Fronton,Occitanie,Haute-Garonne
+32096,Cazaubon,Occitanie,Gers
+32242,Masseube,Occitanie,Gers
+32370,Saint-Clar,Occitanie,Gers
+33058,Blaye,Nouvelle-Aquitaine,Gironde
+33138,Coutras,Nouvelle-Aquitaine,Gironde
+33314,Pauillac,Nouvelle-Aquitaine,Gironde
+34028,Bédarieux,Occitanie,Hérault
+34143,Loupian,Occitanie,Hérault
+35162,Louvigné-du-Désert,Bretagne,Ille-et-Vilaine
+35177,La Mézière,Bretagne,Ille-et-Vilaine
+35251,Saint-Aubin-d'Aubigné,Bretagne,Ille-et-Vilaine
+36018,Le Blanc,Centre-Val de Loire,Indre
+36192,Saint-Gaultier,Centre-Val de Loire,Indre
+37027,Bléré,Centre-Val de Loire,Indre-et-Loire
+37062,Château-la-Vallière,Centre-Val de Loire,Indre-et-Loire
+38315,Le Pont-de-Beauvoisin,Auvergne-Rhône-Alpes,Isère
+38412,Saint-Laurent-du-Pont,Auvergne-Rhône-Alpes,Isère
+39434,Poligny,Bourgogne-Franche-Comté,Jura
+40117,Grenade-sur-l'Adour,Nouvelle-Aquitaine,Landes
+40201,Mugron,Nouvelle-Aquitaine,Landes
+41149,Montoire-sur-le-Loir,Centre-Val de Loire,Loir-et-Cher
+41154,Morée,Centre-Val de Loire,Loir-et-Cher
+42019,Boën-sur-Lignon,Auvergne-Rhône-Alpes,Loire
+42023,Bourg-Argental,Auvergne-Rhône-Alpes,Loire
+42059,Chazelles-sur-Lyon,Auvergne-Rhône-Alpes,Loire
+42094,Feurs,Auvergne-Rhône-Alpes,Loire
+42168,Pélussin,Auvergne-Rhône-Alpes,Loire
+42230,Saint-Germain-Laval,Auvergne-Rhône-Alpes,Loire
+42249,Saint-Just-la-Pendue,Auvergne-Rhône-Alpes,Loire
+43016,Auzon,Auvergne-Rhône-Alpes,Haute-Loire
+43042,Cayres,Auvergne-Rhône-Alpes,Haute-Loire
+43087,Dunières,Auvergne-Rhône-Alpes,Haute-Loire
+43148,Paulhaguet,Auvergne-Rhône-Alpes,Haute-Loire
+43154,Pradelles,Auvergne-Rhône-Alpes,Haute-Loire
+43162,Retournac,Auvergne-Rhône-Alpes,Haute-Loire
+44003,Ancenis-Saint-Géréon,Pays de la Loire,Loire-Atlantique
+44069,Guérande,Pays de la Loire,Loire-Atlantique
+44110,Nort-sur-Erdre,Pays de la Loire,Loire-Atlantique
+44131,Pornic,Pays de la Loire,Loire-Atlantique
+44154,Saint-Brevin-les-Pins,Pays de la Loire,Loire-Atlantique
+44188,Saint-Philbert-de-Grand-Lieu,Pays de la Loire,Loire-Atlantique
+45085,Châtillon-Coligny,Centre-Val de Loire,Loiret
+45191,Le Malesherbois,Centre-Val de Loire,Loiret
+45248,Patay,Centre-Val de Loire,Loiret
+46127,Gourdon,Occitanie,Lot
+46143,Lacapelle-Marival,Occitanie,Lot
+46297,Salviac,Occitanie,Lot
+47057,Castillonnès,Nouvelle-Aquitaine,Lot-et-Garonne
+47252,Sainte-Livrade-sur-Lot,Nouvelle-Aquitaine,Lot-et-Garonne
+47324,Villeréal,Nouvelle-Aquitaine,Lot-et-Garonne
+48034,La Canourgue,Occitanie,Lozère
+48038,Bel-Air-Val-d'Ance,Occitanie,Lozère
+48146,Gorges du Tarn Causses,Occitanie,Lozère
+49127,Durtal,Pays de la Loire,Maine-et-Loire
+50025,Avranches,Normandie,Manche
+50341,Montebourg,Normandie,Manche
+50394,Périers,Normandie,Manche
+50410,Pontorson,Normandie,Manche
+50484,Saint-Hilaire-du-Harcouët,Normandie,Manche
+50565,Sartilly-Baie-Bocage,Normandie,Manche
+50582,Sourdeval,Normandie,Manche
+50591,Le Teilleul,Normandie,Manche
+50615,Valognes,Normandie,Manche
+51217,Dormans,Grand Est,Marne
+51248,Fère-Champenoise,Grand Est,Marne
+51380,Montmirail,Grand Est,Marne
+51535,Sézanne,Grand Est,Marne
+52017,Arc-en-Barrois,Grand Est,Haute-Marne
+52060,Bourbonne-les-Bains,Grand Est,Haute-Marne
+52093,Chalindrey,Grand Est,Haute-Marne
+52211,Froncles,Grand Est,Haute-Marne
+52250,Joinville,Grand Est,Haute-Marne
+52331,La Porte du Der,Grand Est,Haute-Marne
+52550,Wassy,Grand Est,Haute-Marne
+53097,Évron,Pays de la Loire,Mayenne
+53182,Port-Brillet,Pays de la Loire,Mayenne
+54076,Blainville-sur-l'Eau,Grand Est,Meurthe-et-Moselle
+54099,Val de Briey,Grand Est,Meurthe-et-Moselle
+54273,Jarny,Grand Est,Meurthe-et-Moselle
+54280,Jœuf,Grand Est,Meurthe-et-Moselle
+54431,Pont-à-Mousson,Grand Est,Meurthe-et-Moselle
+55291,Ligny-en-Barrois,Grand Est,Meuse
+56007,Auray,Bretagne,Morbihan
+56061,La Gacilly,Bretagne,Morbihan
+56066,Gourin,Bretagne,Morbihan
+56083,Hennebont,Bretagne,Morbihan
+56147,Nivillac,Bretagne,Morbihan
+56195,La Roche-Bernard,Bretagne,Morbihan
+57106,Bouzonville,Grand Est,Moselle
+58079,Clamecy,Bourgogne-Franche-Comté,Nièvre
+58131,Guérigny,Bourgogne-Franche-Comté,Nièvre
+58232,Saint-Benin-d'Azy,Bourgogne-Franche-Comté,Nièvre
+58250,Saint-Léger-des-Vignes,Bourgogne-Franche-Comté,Nièvre
+59008,Aniche,Hauts-de-France,Nord
+59139,Caudry,Hauts-de-France,Nord
+59574,Somain,Hauts-de-France,Nord
+60029,Auneuil,Hauts-de-France,Oise
+60439,Mouy,Hauts-de-France,Oise
+61007,Athis-Val de Rouvre,Normandie,Orne
+61074,Carrouges,Normandie,Orne
+61494,Trun,Normandie,Orne
+62014,Aire-sur-la-Lys,Hauts-de-France,Pas-de-Calais
+62060,Auxi-le-Château,Hauts-de-France,Pas-de-Calais
+62080,Bapaume,Hauts-de-France,Pas-de-Calais
+62215,Carvin,Hauts-de-France,Pas-de-Calais
+62560,Marquise,Hauts-de-France,Pas-de-Calais
+62563,Mazingarbe,Hauts-de-France,Pas-de-Calais
+62667,Le Portel,Hauts-de-France,Pas-de-Calais
+63001,Aigueperse,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63050,Brassac-les-Mines,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63080,Champeix,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63195,Lezoux,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63210,Maringues,Auvergne-Rhône-Alpes,Puy-de-Dôme
+63470,Volvic,Auvergne-Rhône-Alpes,Puy-de-Dôme
+64256,Hasparren,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64320,Laruns,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64422,Oloron-Sainte-Marie,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+64499,Salies-de-Béarn,Nouvelle-Aquitaine,Pyrénées-Atlantiques
+65138,Cauterets,Occitanie,Hautes-Pyrénées
+65287,Loures-Barousse,Occitanie,Hautes-Pyrénées
+65447,Tournay,Occitanie,Hautes-Pyrénées
+65460,Vic-en-Bigorre,Occitanie,Hautes-Pyrénées
+66009,Arles-sur-Tech,Occitanie,Pyrénées-Orientales
+66149,Prades,Occitanie,Pyrénées-Orientales
+66230,Vinça,Occitanie,Pyrénées-Orientales
+67105,Drulingen,Grand Est,Bas-Rhin
+67282,Marlenheim,Grand Est,Bas-Rhin
+67313,Mutzig,Grand Est,Bas-Rhin
+69171,Sain-Bel,Auvergne-Rhône-Alpes,Rhône
+69248,Thizy-les-Bourgs,Auvergne-Rhône-Alpes,Rhône
+69289,Saint-Pierre-de-Chandieu,Auvergne-Rhône-Alpes,Rhône
+70198,Dampierre-sur-Salon,Bourgogne-Franche-Comté,Haute-Saône
+70310,Lure,Bourgogne-Franche-Comté,Haute-Saône
+71310,Montchanin,Bourgogne-Franche-Comté,Saône-et-Loire
+71350,Pierreclos,Bourgogne-Franche-Comté,Saône-et-Loire
+71512,Sennecey-le-Grand,Bourgogne-Franche-Comté,Saône-et-Loire
+72029,Beaumont-sur-Sarthe,Pays de la Loire,Sarthe
+72042,Bouloire,Pays de la Loire,Sarthe
+72068,La Chartre-sur-le-Loir,Pays de la Loire,Sarthe
+72090,Connerré,Pays de la Loire,Sarthe
+72138,Fresnay-sur-Sarthe,Pays de la Loire,Sarthe
+72191,Mayet,Pays de la Loire,Sarthe
+72231,Parigné-l'Évêque,Pays de la Loire,Sarthe
+72241,Montfort-le-Gesnois,Pays de la Loire,Sarthe
+73011,Albertville,Auvergne-Rhône-Alpes,Savoie
+74042,Bonneville,Auvergne-Rhône-Alpes,Haute-Savoie
+74164,Marignier,Auvergne-Rhône-Alpes,Haute-Savoie
+74241,Saint-Jeoire,Auvergne-Rhône-Alpes,Haute-Savoie
+74311,Viuz-en-Sallaz,Auvergne-Rhône-Alpes,Haute-Savoie
+76034,Val-de-Scie,Normandie,Seine-Maritime
+76035,Aumale,Normandie,Seine-Maritime
+76057,Barentin,Normandie,Seine-Maritime
+76655,Saint-Valery-en-Caux,Normandie,Seine-Maritime
+76700,Tôtes,Normandie,Seine-Maritime
+76752,Yerville,Normandie,Seine-Maritime
+77051,Bray-sur-Seine,Île-de-France,Seine-et-Marne
+77053,Brie-Comte-Robert,Île-de-France,Seine-et-Marne
+77079,Champagne-sur-Seine,Île-de-France,Seine-et-Marne
+77100,Le Châtelet-en-Brie,Île-de-France,Seine-et-Marne
+77296,Moissy-Cramayel,Île-de-France,Seine-et-Marne
+77458,Souppes-sur-Loing,Île-de-France,Seine-et-Marne
+78089,Bonnières-sur-Seine,Île-de-France,Yvelines
+78217,Épône,Île-de-France,Yvelines
+78402,Mézières-sur-Seine,Île-de-France,Yvelines
+78537,Saint-Arnoult-en-Yvelines,Île-de-France,Yvelines
+79005,Airvault,Nouvelle-Aquitaine,Deux-Sèvres
+79079,Mauléon,Nouvelle-Aquitaine,Deux-Sèvres
+79083,Chef-Boutonne,Nouvelle-Aquitaine,Deux-Sèvres
+79179,Moncoutant-sur-Sèvre,Nouvelle-Aquitaine,Deux-Sèvres
+80212,Corbie,Hauts-de-France,Somme
+80368,Friville-Escarbotin,Hauts-de-France,Somme
+80410,Ham,Hauts-de-France,Somme
+80630,Poix-de-Picardie,Hauts-de-France,Somme
+80680,Rosières-en-Santerre,Hauts-de-France,Somme
+80688,Rue,Hauts-de-France,Somme
+80721,Saint-Valery-sur-Somme,Hauts-de-France,Somme
+81124,Lacaune,Occitanie,Tarn
+81145,Lisle-sur-Tarn,Occitanie,Tarn
+82094,Lauzerte,Occitanie,Tarn-et-Garonne
+82117,Montaigu-de-Quercy,Occitanie,Tarn-et-Garonne
+82186,Valence,Occitanie,Tarn-et-Garonne
+83004,Les Arcs,Provence-Alpes-Côte d'Azur,Var
+83121,Salernes,Provence-Alpes-Côte d'Azur,Var
+84004,Aubignan,Provence-Alpes-Côte d'Azur,Vaucluse
+84137,Vaison-la-Romaine,Provence-Alpes-Côte d'Azur,Vaucluse
+85003,Aizenay,Pays de la Loire,Vendée
+85018,Beauvoir-sur-Mer,Pays de la Loire,Vendée
+85109,Les Herbiers,Pays de la Loire,Vendée
+85113,L'Île-d'Yeu,Pays de la Loire,Vendée
+85135,Mareuil-sur-Lay-Dissais,Pays de la Loire,Vendée
+85156,Moutiers-les-Mauxfaits,Pays de la Loire,Vendée
+85182,Pouzauges,Pays de la Loire,Vendée
+85226,Saint-Hilaire-de-Riez,Pays de la Loire,Vendée
+86103,Gençay,Nouvelle-Aquitaine,Vienne
+86128,Lencloître,Nouvelle-Aquitaine,Vienne
+86139,Lusignan,Nouvelle-Aquitaine,Vienne
+87126,Rochechouart,Nouvelle-Aquitaine,Haute-Vienne
+87187,Saint-Yrieix-la-Perche,Nouvelle-Aquitaine,Haute-Vienne
+88258,Lamarche,Grand Est,Vosges
+88383,Remiremont,Grand Est,Vosges
+89086,Charny Orée de Puisaye,Bourgogne-Franche-Comté,Yonne
+89125,Courson-les-Carrières,Bourgogne-Franche-Comté,Yonne
+89206,Joigny,Bourgogne-Franche-Comté,Yonne
+89345,Saint-Florentin,Bourgogne-Franche-Comté,Yonne
+90009,Beaucourt,Bourgogne-Franche-Comté,Territoire de Belfort
+90033,Delle,Bourgogne-Franche-Comté,Territoire de Belfort
+91045,Ballancourt-sur-Essonne,Île-de-France,Essonne
+91338,Limours,Île-de-France,Essonne
+95351,Louvres,Île-de-France,Val-d'Oise
+95355,Magny-en-Vexin,Île-de-France,Val-d'Oise
+95370,Marines,Île-de-France,Val-d'Oise
+97128,Sainte-Anne,Guadeloupe,Guadeloupe
+97131,Terre-de-Haut,Guadeloupe,Guadeloupe
+97220,Rivière-Pilote,Martinique,Martinique
+97223,Saint-Esprit,Martinique,Martinique
+97230,La Trinité,Martinique,Martinique
+97231,Les Trois-Îlets,Martinique,Martinique
+97308,Saint-Georges,Guyane,Guyane
+97402,Bras-Panon,La Réunion,La Réunion
+97417,Saint-Philippe,La Réunion,La Réunion
+97421,Salazie,La Réunion,La Réunion

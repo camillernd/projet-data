@@ -2,8 +2,8 @@ import streamlit as st
 from pages.home import home_page
 from pages.initiative import initiative_page
 from pages.beneficiaries import beneficiaries_page
-from pages.regression_analysis import regression_analysis_page
 
+from pages.regression_analysis import regression_analysis_page
 
 # Définir les pages
 home = st.Page(home_page, title="Home", icon="🏠")
