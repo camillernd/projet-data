@@ -4,8 +4,8 @@ from streamlit_folium import st_folium
 import json
 
 def beneficiaries_page():
-    st.title("Bénéficiaires")
-    st.write("Explorez la carte des communes bénéficiaires avec des couleurs par région.")
+    st.title("Communes Bénéficiaires")
+    st.write("Passez votre souris sur une commune pour afficher son nom et sa région.")
 
     # Charger le fichier GeoJSON
     geojson_file = "./data/PVD.geojson"
