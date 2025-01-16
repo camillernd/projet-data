@@ -8,7 +8,13 @@ from scipy.stats import shapiro
 def regression_analysis_page():
     st.title("📊 Analyse de régression")
 
-    # Charger directement le fichier CSV
+    # Ajouter un markdown pour accéder directement au dictionnaire de données
+    st.markdown(
+        """
+        [📘 Voir le dictionnaire des données](#data_dictionary)
+        """
+    )
+    
     file_path = "data/final_filtered_data_sample.csv"
     try:
         filtered_data = pd.read_csv(file_path)
@@ -101,38 +107,47 @@ def regression_analysis_page():
         # Lancer la régression par élimination arrière
         final_model, regression_steps = backward_regression_with_logging(X, y)
 
-        # Affichage des étapes
+        # Affichage des étapes dans un menu déroulant
         st.subheader("Étapes de la régression")
-        for step in regression_steps:
-            st.write(step)
+        with st.expander("Voir les étapes de sélection backward"):
+            for step in regression_steps:
+                st.write(step)
 
         # Résumé du modèle final
         st.subheader("Résumé du modèle final")
-        st.text(final_model.summary())
+        with st.expander("Voir les résultats complets de la régression"):
+            st.text(final_model.summary())
 
         # Interprétation des résultats
         st.header("Interprétation des résultats")
         st.markdown(
             """
-            - **B0** : La constante du modèle est de **-2,6937**, indiquant une valeur de base lorsque toutes les autres variables sont nulles.
-            - **Variables significatives (Bj)** :
-                - Nombre de cinémas : Positivement associé (**+0,1088**).
-                - Nombre de conservatoires : Négativement associé (**-1,5047**).
-                - Nombre de musées : Impact négatif (**-0,2256**).
-                - Médiane du revenu : Positivement associé (**+0,0001**).
-                - Part des moins de 15 ans : Effet positif (**+0,0914**).
-                - Part des 15-19 ans : Effet négatif (**-0,0382**).
-                - Part des 30-44 ans : Impact positif (**+0,0509**).
-                - Part des 45-59 ans : Effet négatif (**-0,0678**).
-                - Nombre de supérettes et épiceries : Positivement associé (**+0,0242**).
-                - Nombre d’écoles primaires : Effet négatif (**-0,0603**).
-                - Nombre de médecins généralistes : Positivement associé (**+0,0185**).
-                - Nombre de dentistes : Effet positif (**+0,0253**).
-                - Nombre de festivals : Impact positif (**+0,0380**).
+            L’analyse des résultats met en lumière plusieurs éléments significatifs influençant le taux d’évolution démographique des communes étudiées. 
+            La constante du modèle est estimée à **-2,6937**, ce qui représente la valeur de base lorsque toutes les variables explicatives sont nulles. 
+            Cela souligne une tendance démographique défavorable en l’absence de facteurs positifs.
 
-            - **R²** : Le R² du modèle est de **0,35**, ce qui indique que notre modèle n’explique qu’environ 35 % de la variance du taux d’évolution de la démographie des communes du PVD.
+            Parmi les variables explicatives, plusieurs ont montré une influence significative. Par exemple, le **nombre de cinémas** est associé 
+            positivement au taux d’évolution démographique (**+0,1088**), indiquant que des infrastructures culturelles peuvent jouer un rôle attractif. 
+            À l’inverse, le **nombre de conservatoires** (**-1,5047**) et de **musées** (**-0,2256**) présente un effet négatif, suggérant que ces équipements, 
+            bien que symboliques, ne suffisent pas à stimuler une croissance démographique.
 
-            - **F-test** : La p-value pour le test de significativité du modèle est extrêmement faible, confirmant que le modèle est significatif.
+            Les données économiques confirment également leur importance. La **médiane du revenu disponible** est positivement corrélée (**+0,0001**) 
+            avec le taux d’évolution, reflétant le rôle essentiel de la prospérité économique dans l’attractivité des communes. Par ailleurs, 
+            la structure démographique des communes a également un effet notable. Une proportion plus élevée de jeunes de moins de 15 ans 
+            stimule la croissance démographique (**+0,0914**), tandis que des tranches d’âge plus âgées, comme les 15-19 ans (**-0,0382**) 
+            et les 45-59 ans (**-0,0678**), semblent avoir un effet inverse.
+
+            Concernant les infrastructures de proximité, la présence de **supérettes et épiceries** a un impact positif significatif (**+0,0242**), 
+            renforçant l’idée que la disponibilité des commerces de base influence l’attractivité locale. En revanche, un **nombre élevé d’écoles primaires** 
+            est associé à une baisse du taux d’évolution démographique (**-0,0603**), ce qui peut refléter un certain déséquilibre dans l’offre scolaire.
+
+            Enfin, les services de santé jouent un rôle clé : la **densité de médecins généralistes** (**+0,0185**) et de dentistes (**+0,0253**) 
+            contribue positivement à l’évolution démographique. De même, les **festivals** (**+0,0380**) semblent renforcer l’attractivité des communes 
+            en valorisant leur dynamisme culturel.
+
+            Malgré un **R²** de **0,35**, indiquant que 35 % de la variance du taux d’évolution est expliquée par notre modèle, 
+            cette étude souligne l’importance des facteurs économiques, culturels et démographiques dans la compréhension des dynamiques locales. 
+            Le test de significativité globale du modèle (F-test) confirme que l’ensemble des prédicteurs retenus est statistiquement significatif.
             """
         )
 
@@ -167,14 +182,53 @@ def regression_analysis_page():
         st.markdown(
             """
             La valeur relativement faible du R² (**0,35**) indique que notre modèle explique uniquement 35 % de la variance du taux d’évolution démographique. 
-            Cela s’explique par la complexité de cette variable, qui est influencée par un grand nombre de facteurs très divers. 
+            Nous avons choisi de nous concentrer sur des facteurs **économiques**, **socio-économiques**, et **environnementaux**, mais le taux d'évolution est une variable qui dépend d'autres facteurs. 
 
-            Ici, nous avons pris en compte la **proximité des grandes villes**, mais nous n’avons pas inclus d’autres types de facteurs environnementaux comme 
-            la **proximité de la mer**, des **stations de ski**, ou encore des **caractéristiques climatiques**. En ajoutant ces variables, 
-            ainsi que des facteurs politiques (par exemple, les investissements publics locaux) et historiques, 
+            Ceux que nous avons choisis expliquent à 35 % cette variation. En ajoutant d'autres facteurs, tels que des éléments politiques (par exemple, les investissements publics locaux) ou historiques, 
             nous pourrions espérer un modèle avec un R² plus élevé et une meilleure explication des variations observées.
             """
         )
+
+        # Dictionnaire de données
+        st.header("📘 Dictionnaire des données", anchor="data_dictionary")
+        with st.expander("Voir le dictionnaire des données"):
+            st.markdown(
+                """
+                - **code_insee** : Code Insee de la commune d'implantation de l'équipement, sans distinction des arrondissements pour Paris, Lyon et Marseille (respectivement 75056, 69123 et 13055) (Source : Défi-Data-Gouv)
+                - **Bibliotheque** : Nombre de bibliothèques dans la commune. (Source : Défi-Data-Gouv)
+                - **Cinema** : Nombre de cinémas dans la commune. (Source : Défi-Data-Gouv)
+                - **Conservatoire** : Nombre de conservatoires dans la commune. (Source : Défi-Data-Gouv)
+                - **Espace_protege** : Nombre d’espaces protégés dans la commune. (Source : Défi-Data-Gouv)
+                - **Librairie** : Nombre de librairies dans la commune. (Source : Défi-Data-Gouv)
+                - **Monument** : Nombre de monuments dans la commune. (Source : Défi-Data-Gouv)
+                - **Musee** : Nombre de musées dans la commune. (Source : Défi-Data-Gouv)
+                - **Parc_et_jardin** : Nombre de parcs et jardins dans la commune. (Source : Défi-Data-Gouv)
+                - **Theatre** : Nombre de théâtres dans la commune. (Source : Défi-Data-Gouv)
+                - **Etablissement_d'enseignement_superieur** : Nombre d’établissements d’enseignement supérieur dans la commune. (Source : Défi-Data-Gouv)
+                - **GCD** : Valeurs possibles : ['6 - Rural à habitat dispersé', '5 - Bourgs ruraux', '4 - Ceintures urbaines', '2 - Centres urbains intermédiaires', '1 - Grands centres urbains', '7 - Rural à habitat très dispersé', '3 - Petites villes'] (Source : Défi-Data-Gouv)
+                - **AAV** : Valeurs possibles : ['30 - Hors attraction des villes', '22 - Couronnes de 50 000 à moins de 200 000 hab.', '11 - Pôles de moins de 50 000 hab.', '23 - Couronnes de 200 000 à moins de 700 000 hab.', '21 - Couronnes de moins de 50 000 hab.', '12 - Pôles de 50 000 à moins de 200 000 hab.', '24 - Couronnes de 700 000 hab. ou plus', '13 - Pôles de 200 000 à moins de 700 000 hab.', '14 - Pôles de 700 000 hab. ou plus', NaN] (Source : Défi-Data-Gouv)
+                - **mediane_du_revenu_disponible_par_uc_2020** : La médiane du revenu disponible correspond au niveau au-dessous duquel se situent 50 % de ces revenus. (Source : Observatoire des territoires)
+                - **part_des_60-74_ans_2021** : Population de cette tranche d’âge rapportée à la population de la commune (Source : Observatoire des territoires)
+                - **part_des_moins_de_15_ans_2021** : Population de cette tranche d’âge rapportée à la population de la commune (Source : Observatoire des territoires)
+                - **part_des_15-29_ans_2021** : Population de cette tranche d’âge rapportée à la population de la commune (Source : Observatoire des territoires)
+                - **part_des_30-44_ans_2021** : Population de cette tranche d’âge rapportée à la population de la commune (Source : Observatoire des territoires)
+                - **part_des_45-59_ans_2021** : Population de cette tranche d’âge rapportée à la population de la commune (Source : Observatoire des territoires)
+                - **nombre_grandes_surfaces_2023** : Nombre de grandes surfaces dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_superettes_et_epieries** : Nombre de supérettes et épiceries dans la commune. (Source : Observatoire des territoires)
+                - **nombre_boulangeries_et_patisseries** : Nombre de boulangeries et de pâtisseries dans la commune. (Source : Observatoire des territoires)
+                - **nombre_ecoles_primaires_maternelles_elementaires** : Nombre d’écoles (primaires, maternelles, élémentaires) dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_colleges** : Nombre de collèges dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_lycees** : Nombre de lycées dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_medecins_generalistes** : Nombre de médecins généralistes dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_dentistes** : Nombre de dentistes dans la commune. (Source : Observatoire des territoires)
+                - **nombre_de_pharmacies** : Nombre de pharmacies dans la commune. (Source : Observatoire des territoires)
+                - **taux_evolution** : Taux d’évolution annuel moyen de la population communale sur une période donnée. (Source : Observatoire des territoires)
+                - **taux_evolution_due_solde_migratoire** : Part du taux d’évolution annuel de la population attribuable au solde migratoire apparent. (Source : Observatoire des territoires)
+                - **taux_evolution_due_solde_naturel** : Part du taux d’évolution annuel de la population attribuable au solde naturel. (Source : Observatoire des territoires)
+                - **nombre_d_equipements_sportifs** : Nombre total d’infrastructures sportives accessibles au public dans la commune (Source : Observatoire des territoires)
+                - **nombre_de_festivals** : Nombre de festivals ayant eu lieu dans la commune en 2019 (Source : Défi-Data-Gouv)
+                """
+            )
 
     except FileNotFoundError:
         st.error(f"Le fichier spécifié à '{file_path}' est introuvable. Veuillez vérifier le chemin.")
